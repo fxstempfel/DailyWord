@@ -1,11 +1,14 @@
 import base64
+import json
 
 from email.mime.text import MIMEText
+from googleapiclient.discovery import build
 
 
-class EMailHepler:
+class EMail:
     def __init__(self, sender, to, subject, message_text):
         self.message = self.create_message(sender, to, subject, message_text)
+        self.service = self.build_service()
 
     @staticmethod
     def create_message(sender, to, subject, message_text):
@@ -26,6 +29,13 @@ class EMailHepler:
         message['subject'] = subject
         return base64.urlsafe_b64encode(message.as_string())
 
+    @staticmethod
+    def build_service():
+        with open("credentials.json", "r") as f:
+            credentials = json.load(f)
+
+        return build("gmail", "v1", credentials)
+
     def send_message(self, user_id="me"):
         """Send an email message.
 
@@ -39,5 +49,9 @@ class EMailHepler:
           Sent Message.
         """
 
-        return service.users().messages().send(userId=user_id, body=self.message.execute())
+        return self.service.users().messages().send(userId=user_id, body=self.message.execute())
 
+
+if __name__ == '__main__':
+    email = EMail("fxstempfel@gmail.com", "francois-xavier.stempfel@atos.net", "[Test] Gmail API", "HelloWorld")
+    email.send_message()
