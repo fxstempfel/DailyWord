@@ -1,78 +1,138 @@
-import base64
-import os
-import pickle
-
+from datetime import datetime
 from email.mime.text import MIMEText
-from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
 
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+import random
+import requests
+import smtplib
+
+import login
+
+DATE_FORMAT_RECORD = "%Y%m%d"
+DATE_FORMAT_MSG = "%c"
+
+SIZE_DICT = 72547
+
+URL_DICT = "https://www.le-dictionnaire.com/definition/{word}"
+
+TOs = [
+    "fxstempfel@gmail.com"
+]
+
+BODY = """
+Hello!
+
+Le mot du jour est : {today}
+Sa défintion ici : {url}
+{history}
+A demain !
+"""
 
 
 class EMail:
-    def __init__(self, sender, to, subject, message_text):
-        self.message = self.create_message(sender, to, subject, message_text)
-        self.service = self.build_service()
+    def __init__(self, from_user, to, subject, message_text):
+        self.from_user = from_user
+        self.to = to
+        self.subject = subject
+        self.message_text = message_text
+
+    def send(self):
+        message = MIMEText(self.message_text)
+        message["from"] = self.from_user
+        message["to"] = self.to
+        message["subject"] = self.subject
+
+        server = smtplib.SMTP("smtp.office365.com", 587)
+        server.ehlo()
+        server.starttls()
+        server.login(login.user, login.password)
+        server.sendmail(login.user, self.to, message.as_string())
+        server.close()
+
+
+class WordPicker:
+    @staticmethod
+    def pick():
+        while True:
+            nb_line = random.randint(0, SIZE_DICT)
+            with open("fr-classique.dic", "r", encoding="utf8") as f:
+                for i, line in enumerate(f):
+                    if i == nb_line and WordPicker.check_word_ok(line):
+                        return line.split("/")[0]
 
     @staticmethod
-    def create_message(sender, to, subject, message_text):
-        """Create a message for an email.
+    def check_word_ok(line):
+        if not ("po:nom" in line or "po:adj" in line or "po:infi" in line or "po:v" in line):
+            return False
 
-        Args:
-          sender: Email address of the sender.
-          to: Email address of the receiver.
-          subject: The subject of the email message.
-          message_text: The text of the email message.
+        word = line.split("/")[0]
 
-        Returns:
-          An object containing a base64url encoded email object.
-        """
-        message = MIMEText(message_text)
-        message['to'] = to
-        message['from'] = sender
-        message['subject'] = subject
-        return base64.urlsafe_b64encode(message.as_bytes())
+        r = requests.get(URL_DICT.format(word=word))
+        if r.status_code != 200:
+            return False
+
+        return "<h3>Définition de {}</h3>".format(word) in r.content.decode("utf8")
+
+
+class Master:
+    @staticmethod
+    def update_record(word):
+        try:
+            with open("record.txt", "r") as f:
+                lines = f.readlines()
+                nb_words = len(lines)
+        except FileNotFoundError:
+            nb_words = 0
+            lines = []
+
+        date = datetime.now().strftime(DATE_FORMAT_RECORD)
+        new_line = "{}:{}\n".format(date, word)
+        with open("record.txt", "w") as f:
+            f.write(new_line)
+            for line in lines[:min(nb_words, 7)]:
+                f.write(line)
 
     @staticmethod
-    def build_service():
-        creds = None
-        # The file token.pickle stores the user's access and refresh tokens, and is
-        # created automatically when the authorization flow completes for the first
-        # time.
-        if os.path.exists('token.pickle'):
-            with open('token.pickle', 'rb') as token:
-                creds = pickle.load(token)
-        # If there are no (valid) credentials available, let the user log in.
-        if not creds or not creds.valid:
-            if creds and creds.expired and creds.refresh_token:
-                creds.refresh(Request())
-            else:
-                flow = InstalledAppFlow.from_client_secrets_file(
-                    'credentials.json', SCOPES)
-                creds = flow.run_local_server()
-            # Save the credentials for the next run
-            with open('token.pickle', 'wb') as token:
-                pickle.dump(creds, token)
+    def read_record():
+        try:
+            with open("record.txt", "r") as f:
+                lines = f.readlines()
+        except FileNotFoundError:
+            return {}
 
-        return build("gmail", "v1", creds)
+        res = {}
+        for line in lines:
+            date, word = line.split(":")
+            res[datetime.strptime(date, DATE_FORMAT_RECORD).strftime(DATE_FORMAT_MSG)] = word.strip("\n")
+        return res
 
-    def send_message(self, user_id="me"):
-        """Send an email message.
+    @staticmethod
+    def format_email(word):
+        try:
+            history = "\n" \
+                      + "\n".join(["{} : {}\t{}".format(date, old_word, URL_DICT.format(word=old_word))
+                                   for date, old_word in Master.read_record().items()]) \
+                      + "\n"
+        except AttributeError:
+            history = ""
+        except ValueError:
+            print(Master.read_record())
+            raise ValueError
 
-        Args:
-          service: Authorized Gmail API service instance.
-          user_id: User's email address. The special value "me"
-          can be used to indicate the authenticated user.
-          message: Message to be sent.
+        body = BODY.format(today=word, url=URL_DICT.format(word=word), history=history)
 
-        Returns:
-          Sent Message.
-        """
+        return body
 
-        return self.service.users().messages().send(userId=user_id, body=self.message.execute())
+    @staticmethod
+    def main():
+        new_word = WordPicker.pick()
+        message_text = Master.format_email(new_word)
+
+        for to in TOs:
+            EMail("Daily Word", to, "Le Mot du Jour", message_text).send()
+
+        Master.update_record(new_word)
 
 
 if __name__ == '__main__':
-    email = EMail("fxstempfel@gmail.com", "francois-xavier.stempfel@atos.net", "[Test] Gmail API", "HelloWorld")
-    email.send_message()
+    Master.main()
+    # TODO format date
