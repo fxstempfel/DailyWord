@@ -10,9 +10,12 @@ import login
 DATE_FORMAT_RECORD = "%Y%m%d"
 DATE_FORMAT_MSG = "%c"
 
-SIZE_DICT = 72547
+SIZE_DICT = 22740
 
 URL_DICT = "https://www.le-dictionnaire.com/definition/{word}"
+
+PATH_DICT = "liste_francais.txt"
+PATH_RECORD = "record.txt"
 
 TOs = [
     "fxstempfel@gmail.com"
@@ -54,7 +57,7 @@ class WordPicker:
     def pick():
         while True:
             nb_line = random.randint(0, SIZE_DICT)
-            with open("fr-classique.dic", "r", encoding="utf8") as f:
+            with open(PATH_DICT, "r", encoding="utf8") as f:
                 for i, line in enumerate(f):
                     if i == nb_line and WordPicker.check_word_ok(line):
                         return line.split("/")[0]
@@ -77,7 +80,7 @@ class Master:
     @staticmethod
     def update_record(word):
         try:
-            with open("record.txt", "r") as f:
+            with open(PATH_RECORD, "r") as f:
                 lines = f.readlines()
                 nb_words = len(lines)
         except FileNotFoundError:
@@ -86,7 +89,7 @@ class Master:
 
         date = datetime.now().strftime(DATE_FORMAT_RECORD)
         new_line = "{}:{}\n".format(date, word)
-        with open("record.txt", "w") as f:
+        with open(PATH_RECORD, "w") as f:
             f.write(new_line)
             for line in lines[:min(nb_words, 7)]:
                 f.write(line)
@@ -94,7 +97,7 @@ class Master:
     @staticmethod
     def read_record():
         try:
-            with open("record.txt", "r") as f:
+            with open(PATH_RECORD, "r") as f:
                 lines = f.readlines()
         except FileNotFoundError:
             return {}
