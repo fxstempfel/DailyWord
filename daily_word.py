@@ -1,6 +1,8 @@
 from datetime import datetime
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+import locale
 import random
 import requests
 import smtplib
@@ -8,7 +10,7 @@ import smtplib
 import login
 
 DATE_FORMAT_RECORD = "%Y%m%d"
-DATE_FORMAT_MSG = "%c"
+DATE_FORMAT_MSG = "%A %d %B"
 
 SIZE_DICT = 22740
 
@@ -17,17 +19,19 @@ URL_DICT = "https://www.le-dictionnaire.com/definition/{word}"
 PATH_DICT = "liste_francais.txt"
 PATH_RECORD = "record.txt"
 
+SUBJECT = "Le Mot du Jour"
 TOs = [
     "fxstempfel@gmail.com"
 ]
 
 BODY = """
-Hello!
+<html>
+<h1>Le Mot du Jour</h1>
 
-Le mot du jour est : {today}
-Sa défintion ici : {url}
-{history}
-A demain !
+<p>Le mot du jour est : <a href="{url}">{today}</a></p>
+<p>{history}</p>
+<p>À demain !</p>
+</html>
 """
 
 
@@ -39,10 +43,13 @@ class EMail:
         self.message_text = message_text
 
     def send(self):
-        message = MIMEText(self.message_text)
+        message = MIMEMultipart("alternative")
+        html_part = MIMEText(self.message_text, "html")
         message["from"] = self.from_user
         message["to"] = self.to
         message["subject"] = self.subject
+
+        message.attach(html_part)
 
         server = smtplib.SMTP("smtp.office365.com", 587)
         server.ehlo()
@@ -57,18 +64,15 @@ class WordPicker:
     def pick():
         while True:
             nb_line = random.randint(0, SIZE_DICT)
-            with open(PATH_DICT, "r", encoding="utf8") as f:
+            print(nb_line)
+            with open(PATH_DICT, "r") as f:
                 for i, line in enumerate(f):
-                    if i == nb_line and WordPicker.check_word_ok(line):
-                        return line.split("/")[0]
+                    word = line.strip("\n")
+                    if i == nb_line and WordPicker.check_word_ok(word):
+                        return word
 
     @staticmethod
-    def check_word_ok(line):
-        if not ("po:nom" in line or "po:adj" in line or "po:infi" in line or "po:v" in line):
-            return False
-
-        word = line.split("/")[0]
-
+    def check_word_ok(word):
         r = requests.get(URL_DICT.format(word=word))
         if r.status_code != 200:
             return False
@@ -109,33 +113,42 @@ class Master:
         return res
 
     @staticmethod
-    def format_email(word):
-        try:
-            history = "\n" \
-                      + "\n".join(["{} : {}\t{}".format(date, old_word, URL_DICT.format(word=old_word))
-                                   for date, old_word in Master.read_record().items()]) \
-                      + "\n"
-        except AttributeError:
+    def format_email(word, to):
+        dict_old = Master.read_record()
+        if len(dict_old) == 0:
             history = ""
-        except ValueError:
-            print(Master.read_record())
-            raise ValueError
+        else:
+            try:
+                history = "Petit rappel des derniers mots :" \
+                          + "\n".join(['<li>{} : <a href="{}">{}</a></li>'.format(date, URL_DICT.format(word=old_word), old_word)
+                                       for date, old_word in dict_old.items()]) \
+                          + "\n"
+            except AttributeError:
+                history = ""
+            except ValueError:
+                print(Master.read_record())
+                raise ValueError
 
-        body = BODY.format(today=word, url=URL_DICT.format(word=word), history=history)
+        body = BODY.format(to=to,
+                           subject=SUBJECT,
+                           today=word,
+                           url=URL_DICT.format(word=word),
+                           history=history)
 
         return body
 
     @staticmethod
     def main():
         new_word = WordPicker.pick()
-        message_text = Master.format_email(new_word)
+
+        locale.setlocale(locale.LC_ALL, 'fr_FR.utf8')
 
         for to in TOs:
-            EMail("Daily Word", to, "Le Mot du Jour", message_text).send()
+            message_text = Master.format_email(new_word, to)
+            EMail("Daily Word", to, SUBJECT, message_text).send()
 
         Master.update_record(new_word)
 
 
 if __name__ == '__main__':
     Master.main()
-    # TODO format date
