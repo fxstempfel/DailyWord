@@ -37,18 +37,13 @@ BODY = """
 
 
 class EMail:
-    def __init__(self, from_user, to, subject, message_text):
-        self.from_user = from_user
-        self.to = to
-        self.subject = subject
-        self.message_text = message_text
-
-    def send(self):
+    @staticmethod
+    def send(from_user, to, subject, message_text):
         message = MIMEMultipart("alternative")
-        html_part = MIMEText(self.message_text, "html")
-        message["from"] = self.from_user
-        message["to"] = self.to
-        message["subject"] = self.subject
+        html_part = MIMEText(message_text, "html")
+        message["from"] = from_user
+        message["to"] = to
+        message["subject"] = subject
 
         message.attach(html_part)
 
@@ -56,25 +51,36 @@ class EMail:
         server.ehlo()
         server.starttls()
         server.login(login.user, login.password)
-        server.sendmail(login.user, self.to, message.as_string())
+        server.sendmail(login.user, to, message.as_string())
         server.close()
 
 
-class WordPicker:
-    @staticmethod
-    def pick():
-        letter = random.choice(string.ascii_letters)
-        print("LETTRE", letter)
-        response = requests.get(URL_LETTER.format(letter=letter))
-        root = etree.HTML(response.content)
-        print(etree.tostring(root, pretty_print=True, encoding="unicode"))
-        selected_range = random.choice(root.xpath("//span[div[@class='titregroupelettre']]/a")).attrib["href"]
+class PartFormatter:
+    def __init__(self, language):
+        self.language = language
+        self.word = None
+        self.url = None
 
-        response = requests.get(URL_BASE + selected_range)
-        root = etree.HTML(response.content)
-        list_words_a = root.xpath("//div[@class='alphabox']/ul/li/a")
-        word_a = random.choice(list_words_a)
-        return word_a.text, URL_BASE + word_a.attrib["href"]
+    def pick(self):
+        if self.language == "fr":
+            letter = random.choice(string.ascii_letters)
+            print("LETTRE", letter)
+            response = requests.get(URL_LETTER.format(letter=letter))
+            root = etree.HTML(response.content)
+            print(etree.tostring(root, pretty_print=True, encoding="unicode"))
+            selected_range = random.choice(root.xpath("//span[div[@class='titregroupelettre']]/a")).attrib["href"]
+
+            response = requests.get(URL_BASE + selected_range)
+            root = etree.HTML(response.content)
+            list_words_a = root.xpath("//div[@class='alphabox']/ul/li/a")
+            word_a = random.choice(list_words_a)
+            self.word, self.url = word_a.text, URL_BASE + word_a.attrib["href"]
+        elif self.language == "en":
+            pass
+
+    def format_part(self):
+        #TODO format a language specific part of email + in master format whole email from scratch
+        pass
 
 
 class Master:
@@ -136,13 +142,15 @@ class Master:
 
     @staticmethod
     def main():
-        new_word, url = WordPicker.pick()
+        fr_formatter = PartFormatter("fr")
+        fr_formatter.pick()
+        new_word, url = fr_formatter.word, fr_formatter.url
 
         locale.setlocale(locale.LC_ALL, 'fr_FR.utf8')
 
         for to in TOs:
             message_text = Master.format_email(new_word, url, to)
-            EMail("Daily Word", to, SUBJECT, message_text).send()
+            EMail.send("Daily Word", to, SUBJECT, message_text)
 
         Master.update_record(new_word, url)
 
