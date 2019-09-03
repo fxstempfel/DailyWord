@@ -98,7 +98,6 @@ def get_def_from_wiki(word):
             continue
 
         # get examples
-        # TODO check, all were null
         examples = []
         for example in definition.findAll('li'):
             # get example text
@@ -126,7 +125,7 @@ def get_def_from_wiki(word):
                 'work': example_work
             })
 
-        if len(examples) > 0:
+        if len(examples) == 0:
             examples = None
 
         definitions.append({'meaning': meaning, 'examples': examples, 'precisions': def_precisions})
@@ -142,6 +141,7 @@ def get_def_from_wiki(word):
     return word_info
 
 
+# TODO explore cnrtl instead of larousse
 def get_def_from_larousse(word):
     """Return definition from Larousse or None if not found"""
     uri = URL_LAROUSSE_BASE + word
@@ -250,4 +250,4 @@ def make_json(n_words=None):
 
 
 if __name__ == '__main__':
-    make_json()
+    make_json(10)
