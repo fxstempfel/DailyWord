@@ -16,6 +16,6 @@ with open('words.json', 'r', encoding='utf-8') as f:
     words_list = json.load(f)['words']
 
 # upload words
-for word in words_list[:10]:
+for word in words_list:
     doc_ref = collection.document(word['name'])
     doc_ref.set(word)

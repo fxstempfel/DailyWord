@@ -72,15 +72,23 @@ def get_def_from_wiki(word):
                 print(f'{word} sublist found')
                 raise NotFoundError
 
-        # get def
+        # get meaning
         all_text = definition.get_text()
         try:
             text_examples = definition.find('ul').get_text()
         except AttributeError:
             text_examples = ''
 
+        # remove examples from meaning
         meaning = all_text.replace(text_examples, '').replace('\xa0', ' ').strip(' \n')
-        groups = re.findall('(\(.*?\))', meaning)
+
+        # TODO TEST get references to remove them from meaning
+        references = definition.findAll('sup', attrs={'class': 'reference'})
+        for ref in references:
+            meaning = meaning.replace(ref.text, '')
+
+        # get precisions
+        groups = re.findall(r'(\(.*?\))', meaning)
         if len(groups) > 0:
             def_precisions = [x.strip('()') for x in groups]
             for x in groups:
@@ -250,4 +258,4 @@ def make_json(n_words=None):
 
 
 if __name__ == '__main__':
-    make_json(10)
+    make_json(100)

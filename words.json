@@ -1,36 +1,143 @@
 {
  "words": [
   {
-   "name": "titraille",
-   "type": "nom commun féminin",
+   "name": "hexagramme",
+   "type": "nom commun masculin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Ensemble des éléments du titre , de la une d’un journal, dont le jeu typographique est destiné à attirer le regard.",
+     "meaning": "Hexagone inscrit dans une conique dont les sommets sont reliés deux à deux.",
      "examples": [
       {
-       "text": "Comment la titraille affecte notre façon de lire en ligne ? Selon une étude du Estlow Center for Journalism and New Media et de la société Eyetools Inc., les lecteurs passent plus facilement sur les gros titres des pages d’accueil plutôt que de les lire.",
+       "text": "L’hexagramme de Pascal.",
        "author": null,
        "work": null
-      },
-      {
-       "text": "Après avoir souligné l’importance du titre, l’auteur note que la presse arabe n’accorde pas un grand intérêt à la titraille. Le lecteur de la « Une » des journaux arabes, a-t-il estimé, ne peut que relever des lacunes, voire des erreurs au niveau de la titraille. La titraille obéit à des règles, devenues avec l’évolution de la profession, plus contraignantes pour les rédacteurs et les secrétaires de rédaction.",
-       "author": null,
-       "work": "Le titre journalistique"
       }
      ],
      "precisions": [
-      "Journalisme",
-      "surtitre, titre principal, sous-titre"
+      "Géométrie"
      ]
     },
     {
-     "meaning": "Ensemble des éléments typographiques de la couverture d’un livre.",
+     "meaning": "Étoile de David ou sceau de Salomon, figuré par deux triangles équilatéraux tournés de 60°.",
      "examples": [
       {
-       "text": "M’attendaient à la maison de premiers exemplaires du huitième volume des “Demeures de l’esprit, France IV, Sud-Est”. Je ne suis pas sûr que la couverture soit très réussie, la titraille est trop serrée vers le haut.",
-       "author": "Renaud Camus",
-       "work": "Vue d’œil"
+       "text": "Car on sait que l’hexagramme appelé par les Arabes Sceau de Salomon, était dès le Moyen Age appelé Bouclier de David par les Juifs.",
+       "author": "André Neher",
+       "work": "David Gans (1541-1613) : disciple du Maharal, assitant de Tycho Brahe et de Jean Kepler"
+      }
+     ],
+     "precisions": [
+      "En particulier"
+     ]
+    },
+    {
+     "meaning": "Symbole constitué de six traits yin ou yang, résultant de la combinaison de deux trigrammes.",
+     "examples": null,
+     "precisions": [
+      "Ésotérisme"
+     ]
+    },
+    {
+     "meaning": "Monnaie byzantine.",
+     "examples": [
+      {
+       "text": "Entre 615 après J.C. et le début du VIIIe siècle, l’État byzantin émit une monnaie en argent, assez lourde, connue sous le nom d’hexagramme.",
+       "author": null,
+       "work": "Revue des archéologues et historiens d’art de Louvain"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/hexagramme"
+  },
+  {
+   "name": "peccamineux",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Relatif au péché.",
+     "examples": [
+      {
+       "text": "Elle était en effet l’obligée de nos fautes, car sans le péché de l’homme, Jésus ne serait point né sous l’aspect peccamineux de notre ressemblance et Elle n’aurait pu dès lors être la génitrice immaculée d’un Dieu.",
+       "author": "Joris-Karl Huysmans",
+       "work": "La Cathédrale"
+      }
+     ],
+     "precisions": [
+      "Religion"
+     ]
+    },
+    {
+     "meaning": "Vivement conscient de sa nature de pécheur.",
+     "examples": [
+      {
+       "text": "Suspecte et peccamineuse, ma grand-mère, toujours au bord de faillir, était retenue par le bras des anges, par le pouvoir d’un mot.",
+       "author": "Jean-Paul Sartre",
+       "work": "Les Mots"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/peccamineux"
+  },
+  {
+   "name": "mustélidés",
+   "type": "forme de nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Pluriel de mustélidé.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/mustélidés"
+  },
+  {
+   "name": "impie",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Incroyant, blasphématoire, qui a du mépris pour les choses de la religion.",
+     "examples": [
+      {
+       "text": "D’après ce point de vue, chassant, comme frivole et même comme impie, cette idée, que la force tangentielle a pu être communiquée directement aux planètes par",
+       "author": "Edgar Poe",
+       "work": "je considère cette force comme naissant de la rotation des astres ; […]."
+      },
+      {
+       "text": "Intérieurement, le prêtre se réjouissait : il allait regrouper ses ouailles pas tellement impies, en vérité.",
+       "author": "Jean Rogissart",
+       "work": "Passantes d’Octobre"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Se dit aussi des choses.",
+     "examples": [
+      {
+       "text": "Leur bouche impie a vomi ce blasphème. — Il osa porter sur eux ses mains impies. — Sentiments impies. — Pensées impies.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Qui offense la patrie, l’autorité paternelle et, en général, les choses considérées comme sacrées.",
+     "examples": [
+      {
+       "text": "Porter les armes contre sa patrie est une chose impie. — Cette doctrine sur la famille est une doctrine impie. — Ce complot impie fut découvert.",
+       "author": null,
+       "work": null
       }
      ],
      "precisions": [
@@ -38,224 +145,281 @@
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/titraille"
+   "link": "https://fr.wiktionary.org/wiki/impie"
   },
   {
-   "name": "billebarrer",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/billebarrer",
-   "definitions": [
-    {
-     "meaning": "Bigarrer par un mélange bizarre de différentes couleurs.",
-     "examples": null,
-     "precisions": [
-      "Vieilli",
-      "Désuet"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/billebarrer"
-  },
-  {
-   "name": "chalouper",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/chalouper",
-   "definitions": [
-    {
-     "meaning": "Marcher ou danser en se balançant latéralement.",
-     "examples": [
-      {
-       "text": "Elles sont là, placées au premier rang pendant les défilés, […]. Toutes ces rédactrices brindezingues qui arrivent en chaloupant sur leurs talons...",
-       "author": null,
-       "work": "Théorie du chiffon"
-      }
-     ],
-     "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/chalouper"
-  },
-  {
-   "name": "étole",
+   "name": "exégèse",
    "type": "nom commun féminin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Ornement sacerdotal qui consiste dans une bande d’étoffe, chargée de trois croix et qui descend du cou jusqu’aux pieds.",
+     "meaning": "Explication grammaticale et étymologique d'un texte ancien difficile, assortie d'un commentaire savant et d'une interprétation.",
      "examples": [
       {
-       "text": "Faut-il vous rappeler maintenant que la liturgie assigne à tous les vêtements, à tous les ornements de l’Eglise, un sens différent, selon leur usage et selon leur forme ?C’est ainsi, par exemple, que le surplis et l’aube signalent l’innocence ; […] ; l’étole : l’obéissance, le vêtement d’immortalité que nous rendit le baptême ; […].",
-       "author": "Joris-Karl Huysmans",
-       "work": "La Cathédrale"
+       "text": "[…] même si l’exégèse montre qu’il sera moins une pièce qu’on endosse qu’une pièce qu’on garde pliée avec soi.",
+       "author": "François Bizot",
+       "work": "Conférence de M. François Bizot"
       },
       {
-       "text": "Le vieux prêtre apparut, au tournant des maisons, l’étole violette croisée sur sa poitrine.",
-       "author": "Émile Moselly",
-       "work": "Terres lorraines"
-      },
-      {
-       "text": "Dans le tohu-bohu de la sacristie m’échoyai l’honneur d’aider le prêtre à se vêtir des ornements. Je présentais l’amict, l’aube, l’étole. Je veillais à la pose de la chasuble.",
-       "author": "Yanny Hureaux",
-       "work": "Bille de chêne : Une enfance forestière"
-      }
-     ],
-     "precisions": [
-      "Christianisme",
-      "Habillement"
-     ]
-    },
-    {
-     "meaning": "Accessoire de mode, souvent en fourrure, ayant la forme d’une étole.",
-     "examples": [
-      {
-       "text": "[…] ; deux bandelettes serrant ses cheveux ondés sont prises sous l’étole et vont s’entrecroiser par-derrière à la chute des reins.",
-       "author": "Gustave Flaubert",
-       "work": "Nous allions à l'aventure par les champs et par les grèves"
-      }
-     ],
-     "precisions": [
-      "Habillement"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/étole"
-  },
-  {
-   "name": "paganiser",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/paganiser",
-   "definitions": [
-    {
-     "meaning": "Agir, penser en païen.",
-     "examples": [
-      {
-       "text": "Et, parce que je propose ce même principe que nul n’a nié…. je suis un païen [d’après Fénelon], je ne songe plus que je parle au milieu de l’Église, je paganise dans le sanctuaire.",
+       "text": "L’exégèse du code ou des arrêts correspond au commentaire des textes législatifs ou de la jurisprudence.",
        "author": null,
-       "work": "Signatures des docteurs"
-      }
-     ],
-     "precisions": null
-    },
-    {
-     "meaning": "Donner le caractère du paganisme.",
-     "examples": [
+       "work": null
+      },
       {
-       "text": "Sa statue [d’Adrien], celles de Jupiter capitolin et d’autres divinités grecques et phéniciennes ornèrent le temple bâti sur les ruines du sanctuaire de Jéhovah…. il fit aussi construire un temple de Jupiter sur Garizim, la montagne sainte des Samaritains, et un temple de Vénus sur le Golgotha ; on eût dit qu’il voulait ainsi paganiser les trois monts vénérés par les trois religions issues du monothéisme d’Israël.",
+       "text": "L’exégèse historique correspond à l’interprétation des textes historiques.",
        "author": null,
        "work": null
       }
      ],
      "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/paganiser"
-  },
-  {
-   "name": "congruent",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
+    },
     {
-     "meaning": "Qui s’applique bien, qui convient.",
+     "meaning": "Étude approfondie d'un texte et en particulier d'un texte sacré ancien. Commentaire philologique, explication historique, et interprétation de la Bible.",
      "examples": [
       {
-       "text": "Nous savons depuis 1935 que les mots dans lesquels l’information pertinente – la couleur de l’encre – est en conflit avec l’information non pertinente — le mot de couleur – demandent davantage de temps pour y répondre. Nous commettons plus d’erreurs pour ces essais incongruents (exemple : rouge écrit à l’encre verte), que pour les essais congruents (exemple : rouge écrit à l’encre rouge).",
-       "author": "Lionel Naccache",
-       "work": "Le Nouvel Inconscient : Freud, le Christophe Colomb des neurosciences"
+       "text": "Le phénix devint rapidement une figure familière dans les cercles paracelsistes, tout en suscitant des exégèses assez variées.",
+       "author": null,
+       "work": "Chansons intellectuelles sur la résurrection du Phénix"
       },
       {
-       "text": "Les peines encourues étaient énormes par rapport au butin. Il chercha quel mot qualifierait le mieux Poulou et Gino. « Baltringues » lui sembla le plus congruent. Lui qui détestait les romans policiers s’était embringué avec des baltringues. A présent le plus urgent était de toucher sa part ridicule et de leur fausser compagnie.",
+       "text": "La liberté, où tant d’étourdis se trouvent portés du premier bond, fut pour moi une acquisition lente. Je n’arrivai au point d’émancipation que tant de gens atteignent sans aucun effort de réflexion qu’après avoir traversé toute l’exégèse allemande. Il me fallut six années de méditation et de travail forcené pour voir que mes maîtres n’étaient pas infaillibles.",
        "author": null,
-       "work": "Le Corps de l’autre"
+       "work": "Souvenirs d’enfance et de jeunesse"
+      },
+      {
+       "text": "La supériorité des juifs, en matière d’exégèse biblique, est si manifeste qu’elle provoque souvent la conversion au judaïsme de membres du Clergé",
+       "author": null,
+       "work": "Histoire des Juifs de France des origines à nos jours"
+      }
+     ],
+     "precisions": [
+      "En particulier",
+      "Religion"
+     ]
+    },
+    {
+     "meaning": "ou  Explication d’un écrit, rendue nécessaire par son caractère prétentieux et alambiqué.",
+     "examples": [
+      {
+       "text": "On lui remet une feuille jaune : « Renseignements généraux concernant les mariages. »",
+       "author": null,
+       "work": "se faire administrer une exégèse de la feuille jaune"
+      },
+      {
+       "text": "Pour Kouchner, l’exégèse laborieuse de ses propres déclarations avait aussi pour objectif de se démarquer un tant soit peu des positions américaines sur la question du nucléaire iranien.",
+       "author": null,
+       "work": "Libération"
+      },
+      {
+       "text": "Finalement, on cherche l’exégèse en toute chose.",
+       "author": null,
+       "work": "La Délicatesse"
+      }
+     ],
+     "precisions": [
+      "Figuré",
+      "Ironique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/exégèse"
+  },
+  {
+   "name": "bégueter",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/b%C3%A9gueter",
+   "definitions": [
+    {
+     "meaning": "Crier pour la chèvre.",
+     "examples": [
+      {
+       "text": "(Figuré)",
+       "author": "Gustav Meyrink",
+       "work": "« Gueule carrée » nous commente les choses en béguetant avec emphase et respect : « Sa Magnissime Excellence, le Prince Ferri Athenstädt. »"
       }
      ],
      "precisions": null
-    },
-    {
-     "meaning": "Qualifie deux objets mathématiques reliés par une congruence.",
-     "examples": null,
-     "precisions": [
-      "Mathématiques"
-     ]
-    },
-    {
-     "meaning": "Le même qui émerge d’une différence.",
-     "examples": [
-      {
-       "text": "L’intuition de l’essence consiste à faire ressortir activement le congruent qui était implicitement sous-jacent aux différences.",
-       "author": null,
-       "work": "Introduction à la philosophie de Husserl"
-      }
-     ],
-     "precisions": [
-      "Philosophie"
-     ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/congruent"
+   "link": "https://fr.wiktionary.org/wiki/bégueter"
   },
   {
-   "name": "naupathie",
-   "type": "nom commun féminin",
+   "name": "parousie",
+   "type": "nom commun féminin singulier",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Mal de mer, nausée.",
+     "meaning": "Retour glorieux du Christ à la fin des temps dans le but d’établir définitivement le royaume de Dieu sur la terre.",
      "examples": [
       {
-       "text": "Le mal de mer ou naupathie.",
+       "text": "Le parti des",
+       "author": "Louis Rougier",
+       "work": "fut celui des premières générations chrétiennes qui vivaient dans l’attente anxieuse de la fin du monde et se recrutait parmi les déshérités. Mais à mesure que la parousie reculait, […], l’ignorantisme des"
+      },
+      {
+       "text": "La parousie en effet constituera une apocatastase générique et cosmique, un « rétablissement » de tous et de tout dans l’énergie divine.",
+       "author": null,
+       "work": "Entre Mort et Résurrection"
+      },
+      {
+       "text": "(Figuré)",
+       "author": "Pol Vandromme",
+       "work": "Derrière ce théâtre, avec le fracas de son apocalypse et l’arche dorée de sa parousie, grouillaient des secrets de négoces et des ambitions de parvenus."
+      }
+     ],
+     "precisions": [
+      "Religion"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/parousie"
+  },
+  {
+   "name": "accouver",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/accouver",
+   "definitions": [
+    {
+     "meaning": "Préparer un nid pour faire couver un oiseau.",
+     "examples": null,
+     "precisions": [
+      "Transitif"
+     ]
+    },
+    {
+     "meaning": "Faire éclore des oeufs en couveuse artificielle.",
+     "examples": null,
+     "precisions": [
+      "Intransitif"
+     ]
+    },
+    {
+     "meaning": "Commencer à couver pour un oiseau.",
+     "examples": null,
+     "precisions": [
+      "Pronominal"
+     ]
+    },
+    {
+     "meaning": "S’accroupir.",
+     "examples": [
+      {
+       "text": "Je m’accouvai dans un coin, et j’attendis.",
+       "author": "Alphonse Daudet",
+       "work": "Le Prussien de Bélisaire"
+      },
+      {
+       "text": "La tourterelle déplumée et boiteuse entra dans la chambre en sautillant, et alla s’accouver sur une savate, au pied du lit conjugal.",
+       "author": null,
+       "work": "Episcopo et Cie"
+      },
+      {
+       "text": "Il aurait été préférable que je sois aussi charitable que l’étaient mes parents. « Qui nous aide, nous ? Personne. Et son Armandine, elle est où ? C’est nous qu’on doit s’accouver sous les vaches à sa place !",
+       "author": null,
+       "work": "Naissance d’une femme"
+      },
+      {
+       "text": "Elle se reverra ce jour-là, dans sa chambre, assise près de la fenêtre, les pieds sur son lit, regardant les invités d’une maison en face sortir les uns après les autres dans le jardin, pour uriner derrière le mur aveugle, si bien qu’elle n’oubliera jamais ni la date de l’insurrection algérienne ni cet après-midi de Toussaint pour lequel elle disposera d’un image nette, une sorte de fait pur, une jeune femme s’accouvant dans l’herbe et se relevant en rabattant sa jupe.",
+       "author": "Annie Ernaux",
+       "work": "Les années"
+      }
+     ],
+     "precisions": [
+      "Pronominal",
+      "Régional",
+      "Figuré"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/accouver"
+  },
+  {
+   "name": "apostolat",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Ministère d’apôtre ; sa durée.",
+     "examples": [
+      {
+       "text": "Saint Paul fut appelé à l’apostolat par une voix miraculeuse.",
        "author": null,
        "work": null
       }
      ],
-     "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/naupathie"
-  },
-  {
-   "name": "encomium",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Dictionnaire.[1][2]",
-     "examples": null,
      "precisions": [
-      "Désuet"
+      "Religion"
      ]
     },
     {
-     "meaning": "Genre littéraire de la rhétorique grecque visant à faire l’éloge d’une personne, d’une chose, d’idée.",
+     "meaning": "Prédication ; propagation d’une doctrine.",
      "examples": [
       {
-       "text": "[…] le texte d’Érasme appartient à un genre bien particulier : il s’agit d’une déclamation, qui relève du genre démonstratif (ou épidictique), et plus précisément encore d’un encomium par lequel il s’agit de louer une personne, une chose, une idée. De plus, il s’agit d’une sous-espèce bien singulière d’encomium : un pseudo-encomium, c’est-à-dire un éloge paradoxal, par lequel l’auteur fait l’éloge, sur un mode facétieux, parodique ou satirique, d’un sujet ridicule en employant un ton très sérieux […]",
+       "text": "Oh ! rester là, toujours, ne plus s’en aller jamais ! accomplir la bonne besogne pénible à la fois et captivante de son apostolat ; puis, à d’autres heures, s’abandonner à toutes les délicates douceurs de la contemplation.",
+       "author": "Isabelle Eberhardt",
+       "work": "Le Major"
+      },
+      {
+       "text": "Le trait le plus saillant de la mentalité salutiste, celui qui saute aux yeux autant que le célèbre uniforme, c'est la soif de l’apostolat. Ils ont le sens de la valeur des âmes, ces gens-là, […].",
        "author": null,
-       "work": "Un paradoxal éloge de la folie érasmienne : le Triumphe de prudence"
+       "work": "La Vie intellectuelle"
+      },
+      {
+       "text": "Je trouvais sympathique que ces engagés enragés se moquent grivoisement de leur apostolat [...]",
+       "author": "Réjean Ducharme",
+       "work": "L'hiver de force"
       }
      ],
-     "precisions": null
+     "precisions": [
+      "Par extension"
+     ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/encomium"
+   "link": "https://fr.wiktionary.org/wiki/apostolat"
   },
   {
-   "name": "tégument",
+   "name": "capybara",
    "type": "nom commun masculin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Tissu organique qui recouvre le corps des animaux.",
+     "meaning": "Mammifère d’Amérique du Sud apparenté aux cobayes .",
      "examples": [
       {
-       "text": "Mais ne pouvant penser à la fois à ce que j’étais et à ce que je serais, je pensais avec désespoir à tout ce tégument de caresses, de baisers, de sommeils amis, dont il faudrait bientôt me laisser dépouiller pour jamais.",
-       "author": "Marcel Proust",
-       "work": "Albertine disparue"
+       "text": "Nul autre pays au monde n'abrite davantage de mammifères. Quelques-unes des espèces les plus emblématiques, comme le jaguar et le loup à crinière, sont presque impossibles à apercevoir. D'autres en revanche, dont les coatis, les capybaras et des singes en tout genre, peuvent s'observer à la faveur d'une excursion.",
+       "author": "Lonely Planet",
+       "work": "Brésil"
       },
       {
-       "text": "Cette larve peut vivre deux jours. Elle doit trouver une limnée (petit gastéropode aquatique) et pénétrer activement à travers son tégument.",
+       "text": "Les capybaras vivent en petits groupes sous la férule d'un mâle dominant accompagné de quatre à six femelles. L'individu de sexe mâle se reconnaît à sa glande frontale dont le liquide lui sert à marquer son territoire. Les petits, adorablement potelés, naissent au printemps. Protégé dans la région d'Iberâ, le capybara est élevé et chassé dans le reste du pays pour sa peau dont on tire un cuir souple. Les communautés traditionnelles le considèrent comme un plat de choix.",
        "author": null,
-       "work": "Maladies des lapins: manuel pratique"
+       "work": "Argentine : Histoire, culture et cuisine"
+      },
+      {
+       "text": "Le capybara ou capibara ou encore cabiai est le plus grand rongeur du monde.",
+       "author": null,
+       "work": "animaux.org"
+      }
+     ],
+     "precisions": [
+      "le plus gros rongeur vivant sur Terre"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/capybara"
+  },
+  {
+   "name": "panspermie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Théorie qui affirmait la dissémination en tous lieux de germes et de spores, toujours prêts à se développer.",
+     "examples": [
+      {
+       "text": "La doctrine des germes préexistans régnait à ce moment presque sans partage. Comment concilier les faits nouveaux avec cette théorie ? Bonnet consacra à la solution de ce problème de longues méditations qui aboutirent à une exagération nouvelle, à la panspermie, théorie bizarre qui admet l’existence constante et la diffusion universelle de germes partout présens et toujours prêts à se développer.",
+       "author": "Jean Louis Armand de Quatrefages de Bréau",
+       "work": "Les Métamorphoses et la généagénèse"
       }
      ],
      "precisions": [
@@ -263,31 +427,429 @@
      ]
     },
     {
-     "meaning": "Enveloppe de l’ovule ou de la graine.",
+     "meaning": "Théorie qui suppose que la Terre aurait été fécondée de l'extérieur, par des moyens extraterrestres.",
+     "examples": null,
+     "precisions": [
+      "Mythologie",
+      "Depuis 1878"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/panspermie"
+  },
+  {
+   "name": "violine",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Poudre blanche, âcre, extraite du rhizome de la violette, aux propriétés émétiques.",
      "examples": [
       {
-       "text": "C’est au niveau du tégument que se réalise une partie des échanges de matières et d’informations entre l’organisme et le milieu qui l’entoure.",
+       "text": "La violine a été découverte par M. Boullay dans les différentes parties (racine , feuilles , fleurs et semences) du viola odorata; elle possède les principaux caractères de l'émétine provenant de l'ipécacuanha.",
        "author": null,
-       "work": "aquaportail.com"
+       "work": "Manuel du pharmacien,"
+      }
+     ],
+     "precisions": [
+      "Chimie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/violine"
+  },
+  {
+   "name": "salmigondis",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Ragoût de diverses sortes de viandes réchauffées.",
+     "examples": [
+      {
+       "text": "Elle fit un salmigondis de toutes les viandes qui étaient restées de la veille.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Vieilli",
+      "Cuisine"
+     ]
+    },
+    {
+     "meaning": "Repas festif où chacun des convives apporte un plat ou une partie du repas.",
+     "examples": [
+      {
+       "text": "Je suis invité ce soir chez Lorenzo à un salmigondis",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Cuisine"
+     ]
+    },
+    {
+     "meaning": "Conversation, discours ou écrit où sont mêlées confusément toutes sortes de choses disparates.",
+     "examples": [
+      {
+       "text": "Sa conversation n'est qu'un salmigondis.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Ce livre est un salmigondis où il y a quelques bonnes choses mêlées à beaucoup de sottises.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Mourir dans le fatras des illusions factorielles, le salmigondis des puissances, des translations et des monogènes infinis, la bouche pleine de fractions continues et d’exposants et, cependant, sans un mot pour son enfant.",
+       "author": null,
+       "work": "La succession"
+      },
+      {
+       "text": "Ces vérités et ces illusions mêlées faisaient un tel salmigondis que le spectre de José Arcadio Buendia, sous le châtaignier, fut pris de convulsions d'impatience et se trouva contraint d'arpenter la maison même en plein jour.",
+       "author": "Gabriel Garcia Marquez",
+       "work": "Cent ans de solitude"
+      }
+     ],
+     "precisions": [
+      "Figuré",
+      "Familier"
+     ]
+    },
+    {
+     "meaning": "Personnes réunies au hasard.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/salmigondis"
+  },
+  {
+   "name": "ormeau",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Mollusque marin comestible du genre Haliotis, en forme d’oreille avec une rangée de trous.",
+     "examples": [
+      {
+       "text": "Autre atout régional, avance encore le préfet, la production d’ormeaux, au deuxième rang mondial après la Chine, qui se nourrissent d’algues. Un tiers de la production coréenne d’algues servirait à nourrir ce mollusque marin à coquille.",
+       "author": null,
+       "work": "Le Monde"
+      }
+     ],
+     "precisions": [
+      "Malacologie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/ormeau"
+  },
+  {
+   "name": "escobar",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Hypocrite, qui résout au mieux de ses intérêts les cas de conscience les plus délicats.",
+     "examples": [
+      {
+       "text": "Ainsi, serait faite, pour la plus grande confusion des escobars, même officiels",
+       "author": null,
+       "work": ", la preuve qu'on sait en France, respecter la peinture ancienne."
+      }
+     ],
+     "precisions": [
+      "Vieilli",
+      "Péjoratif"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/escobar"
+  },
+  {
+   "name": "monôme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Expression algébrique qui ne contient que des facteurs .",
+     "examples": [
+      {
+       "text": "Si l'on en croit Sinân Ibn al-Fath, plusieurs mathématiciens avant lui avaient été amenés à considérer des monômes de degré supérieur à 2 et à les nommer, mais il dit être le premier à en avoir rédigé un exposé systématique et à s'en être servi pour étendre le domaine des équations résolubles par radicaux.",
+       "author": null,
+       "work": "L'algèbre arabe: genèse d'un art"
+      },
+      {
+       "text": "Exemple d’utilisation manquant.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Mathématiques",
+      "le coefficient des facteurs indéterminés peut ou ne pas faire partie du monôme selon les cas"
+     ]
+    },
+    {
+     "meaning": "File ininterrompue d’étudiants se livrant à des manifestations sur la voie publique.",
+     "examples": [
+      {
+       "text": "Pour protester contre ces poursuites, les élèves de l'école des Beaux-Arts décident un monôme qui se réunira le samedi 1er juillet, place de la Sorbonne, et ira conspuer le trop vertueux sénateur. C'est une vieille et peu dangereuse tradition que la police tolère […].",
+       "author": "Alexandre Zévaès",
+       "work": "Histoire de la Troisième République 1870 à 1926"
+      }
+     ],
+     "precisions": [
+      "Argot polytechnicien",
+      "Argot des Gadz’Arts",
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Cortège, en file indienne.",
+     "examples": [
+      {
+       "text": "Elle allait juste descendre, porteuse des précieux papiers, lorsqu’elle avait entendu dans l’escalier le monôme de ses cousines…",
+       "author": "Germaine Acremant",
+       "work": "Ces dames aux chapeaux verts"
+      }
+     ],
+     "precisions": [
+      "Par ironie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/monôme"
+  },
+  {
+   "name": "taler",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/taler",
+   "definitions": [
+    {
+     "meaning": "Abîmer  en lui faisant subir un choc.",
+     "examples": [
+      {
+       "text": "Une faible bouffée de pêche talée et par trop mûre passe dans le soupir des extraits de fleurs et des poudres.’",
+       "author": "Joris-Karl Huysmans",
+       "work": "Le Drageoir des épices"
+      }
+     ],
+     "precisions": [
+      "un fruit"
+     ]
+    },
+    {
+     "meaning": "Frapper, boter.",
+     "examples": [
+      {
+       "text": "Je te boyauderai, je t'en bâillerai de vertes, des mûres et des blettes, je te talerai le derrière.",
+       "author": "Romain Rolland",
+       "work": "Colas Breugnon"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Meurtrir.",
+     "examples": [
+      {
+       "text": "Prenant le malade, elle l'a retourné sur le dos. J'ai vu ce dos, un dos talé, déformé par le lit, où la chair n'a plus de forme, un peu comme un dos d'enfant serré par les langes.",
+       "author": "Goncourt",
+       "work": "Journal"
+      },
+      {
+       "text": "Ma peau, je te la donne",
+       "author": "Marcel Aymé",
+       "work": ". C'est une vieille peau qui me tale à l'endroit du cœur."
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/taler"
+  },
+  {
+   "name": "lancéolé",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Se dit d'une feuille en forme de fer de lance.",
+     "examples": [
+      {
+       "text": "Feuilles lancéolées.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Ici des bananiers énormes atteignent presque les vitres de la voûte, et mêlent leurs larges palmes d’un vert lustré aux feuilles lancéolées des grands magnoliers.",
+       "author": "Eugène Sue",
+       "work": "Les Mystères de Paris"
+      },
+      {
+       "text": "Aucun  hiver  n’est  plus  d’un  blanc  pur  à  la  base  d’un  ciel  bourré  de  nues  ardoisées,  qui  présageaient  une  tempête  de  flocons plus épais, puis un dégel illuminé de mille gouttes d’eau et de bourgeons lancéolés...",
+       "author": "Colette",
+       "work": "Sido"
       }
      ],
      "precisions": [
       "Botanique"
      ]
+    },
+    {
+     "meaning": "Synonyme d'amphioxus, animal en forme de fer de lance.",
+     "examples": null,
+     "precisions": [
+      "Zoologie"
+     ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/tégument"
+   "link": "https://fr.wiktionary.org/wiki/lancéolé"
   },
   {
-   "name": "élimer",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/%C3%A9limer",
+   "name": "gouleyant",
+   "type": "adjectif",
+   "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "User une étoffe par frottement à force de la porter.",
+     "meaning": "Se dit d’un vin  frais, agréable à boire, léger.",
      "examples": [
       {
-       "text": "Cet habit, ce linge est tout élimé.",
+       "text": "Un cidre gaillard, moqueur, suave, gouleyant, le cidre de la complainte et de la cantilène, le cidre — pas bu — des vivants, et des morts qui s’esquivent des enclos paroissiaux afin de venir licher dans les caves et les secrets celliers.",
+       "author": "Charles Le Quintrec",
+       "work": "Le Château d’amour"
+      }
+     ],
+     "precisions": [
+      "Œnologie",
+      "ou d’une eau-de-vie, d’un cidre, d’une bière"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/gouleyant"
+  },
+  {
+   "name": "cyclothymie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Trouble de l’humeur où se succèdent les phases d’euphorie et de dépression.",
+     "examples": [
+      {
+       "text": "L’auteur pense que la constitution cyclothymique existe et se manifeste dans la grande majorité des cas de psychose maniaque dépressive et de cyclothymie; […].",
+       "author": null,
+       "work": "Revue Neurologique"
+      },
+      {
+       "text": "La psychologie occidentale reconnaît le lien entre des troubles graves – comme la schizophrénie, la paranoïa ou la cyclothymie –, et les émotions malsaines ou les idées irréalistes.",
+       "author": null,
+       "work": "Pratique du bouddhisme tibétain : Le bonheur passe par les autres"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/cyclothymie"
+  },
+  {
+   "name": "havir",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/havir",
+   "definitions": [
+    {
+     "meaning": "Se dit, en parlant de la viande, lorsqu’on la fait rôtir à un grand feu, qui la dessèche et la brûle par-dessus, sans qu’elle soit cuite en dedans.",
+     "examples": [
+      {
+       "text": "(Figuré)",
+       "author": null,
+       "work": "Qu'est l'arraisonnement auprès de la chair labourée de l'envie, la chair en absence, frémillante, qui ne cesse de havir ?"
+      }
+     ],
+     "precisions": [
+      "Désuet",
+      "Cuisine"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/havir"
+  },
+  {
+   "name": "roué",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qualifie le bois du cerf, lorsqu’il est serré et peu ouvert.",
+     "examples": null,
+     "precisions": [
+      "Chasse"
+     ]
+    },
+    {
+     "meaning": "Qui est sans principes, dont la conduite est désordonnée.",
+     "examples": [
+      {
+       "text": "[…] la mère Paul était rouée et profitait des pièces qu’on lui remettait de temps en temps pour jurer qu’on avait dû se tromper en la gratifiant d’un jeton de bar.",
+       "author": "Francis Carco",
+       "work": "L’Homme de minuit"
+      }
+     ],
+     "precisions": [
+      "Familier"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/roué"
+  },
+  {
+   "name": "boulingrin",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Rectangle allongé, entouré de bordures et de pentes artificielles.",
+     "examples": [
+      {
+       "text": "Il sépara ce cottage de son boulingrin orné de fleurs, de plates-bandes, la terrasse de sa villa, par une muraille basse le long de laquelle il planta une haie pour la cacher.",
+       "author": "Honoré de Balzac",
+       "work": "Modeste Mignon"
+      },
+      {
+       "text": "Ces arbrisseaux font aussi un très bel effet dans les bosquets et les boulingrins à cause de l'aspect de leurs fruits.",
+       "author": null,
+       "work": "Traité de la culture des arbres fruitiers"
+      }
+     ],
+     "precisions": [
+      "Jardinage"
+     ]
+    },
+    {
+     "meaning": "Sport de boules sur gazon avec des boules en composite plastique .",
+     "examples": null,
+     "precisions": [
+      "le bois de lignum vitae traditionnellement"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/boulingrin"
+  },
+  {
+   "name": "fourrager",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui produit du fourrage.",
+     "examples": [
+      {
+       "text": "Les plantes fourragères. — Culture fourragère.",
        "author": null,
        "work": null
       }
@@ -295,118 +857,957 @@
      "precisions": null
     },
     {
-     "meaning": "Purger un faucon dans le but de l’affaiblir pour qu’il ne puisse s’envoler.",
-     "examples": null,
-     "precisions": [
-      "Fauconnerie"
-     ]
-    },
-    {
-     "meaning": "S’user à force d’être porté.",
+     "meaning": "Qui est de la nature du fourrage ; qui en a les qualités.",
      "examples": [
       {
-       "text": "La manche de cette veste s’élime au coude.",
+       "text": "Blé fourrager. Betterave fourragère.",
        "author": null,
        "work": null
       }
      ],
+     "precisions": null
+    },
+    {
+     "meaning": "Relatif au fourrage.",
+     "examples": [
+      {
+       "text": "En prairies permanentes, des modes de gestion adaptés (pâturage tournant notamment) peuvent favoriser la présence de légumineuses et leur diversité, indicateur de valeur pastorale et de qualité fourragère.",
+       "author": null,
+       "work": "Les légumineuses pour des systèmes agricoles et alimentaires"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/fourrager"
+  },
+  {
+   "name": "inébriant",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui enivre ; qui donne de l’ébriété.",
+     "examples": [
+      {
+       "text": "Pour obtenir la haschiscine avec les qualités requises, il n’est pas indifférent de s’adresser à l’une ou l’autre espèce de chanvre ; le chanvre de nos contrées,",
+       "author": null,
+       "work": ", n’est doué que très faiblement des propriétés inébriantes du chanvre indien ; […]."
+      }
+     ],
      "precisions": [
-      "Pronominal"
+      "Soutenu"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/élimer"
+   "link": "https://fr.wiktionary.org/wiki/inébriant"
   },
   {
-   "name": "cohorte",
+   "name": "zoroastrisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Religion monothéiste de tolérance fondée par Zoroastre et pratiquée en Perse jusqu’à l’arrivée de l’islam.",
+     "examples": [
+      {
+       "text": "Ainsi parlait Hérodote des Sassanides, soulignant la particularité du zoroastrisme, culte officiel de l’État perse de l'époque : son monothéisme. Bien avant l’avènement du christianisme et sans doute du judaïsme, les zoroastriens plaçaient leur foi en une divinité unique et abstraite, Ahura Mazda (…).",
+       "author": "Libération (journal)",
+       "work": "Ainsi parlait le zoroastrien"
+      },
+      {
+       "text": "Mais qui était véritablement Zarathustra ? Prophète du mazdéisme (on dit aussi \" zoroastrisme \") religion des anciens Iraniens vouée au culte de Ahura Mazdâ, Zarathustra a vécu vers 1000 ou 1200 avant Jésus-Christ.",
+       "author": null,
+       "work": "Zarathustra"
+      }
+     ],
+     "precisions": [
+      "Religion"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/zoroastrisme"
+  },
+  {
+   "name": "écueil",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Rocher, banc de sable, de coquillages, de corail, que l’on rencontre dans la mer à la surface ou près de la surface des eaux, et contre lequel les navires courent le risque de se briser ou de s’échouer.",
+     "examples": [
+      {
+       "text": "Au moment même où nous passions si près de cet écueil, la décoloration des eaux et leur mouvement irrégulier me prouvèrent que nous étions sur un petit fond, et qu’à chaque instant un choc fatal pouvait décider de notre sort.",
+       "author": "Dumont d’Urville",
+       "work": "Voyage de Dumont d’Urville autour du monde raconté par lui-même"
+      }
+     ],
+     "precisions": [
+      "Marine"
+     ]
+    },
+    {
+     "meaning": "Choses dangereuses pour la vertu, l’honneur, la fortune, la réputation, etc.",
+     "examples": [
+      {
+       "text": "[…] ; mais, pour éloigner sans retour la conversation de l’écueil où elle l’avait vue sur le point d’échouer, elle dit à son mari d’un ton gracieux : […].",
+       "author": "Julie de Quérangal",
+       "work": "Philippe de Morvelle"
+      }
+     ],
+     "precisions": [
+      "Figuré"
+     ]
+    },
+    {
+     "meaning": "Barrière, obstacle.",
+     "examples": [
+      {
+       "text": "Nationalisme et Socialisme en tant que nouveaux credo du pouvoir, furent expérimentés et se révélèrent insuffisants, car tous deux, comme le réformisme avant eux, sombrèrent sur l’écueil de l’absolutisme.",
+       "author": null,
+       "work": "L’Islam et l’État"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/écueil"
+  },
+  {
+   "name": "treillage",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Assemblage de perches, de lattes ou d’échalas posés en carrés, en losanges, etc., pour former des berceaux, des palissades ou des espaliers dans les jardins.",
+     "examples": [
+      {
+       "text": "A-t-on jamais vu de voisin qui se soit plaint de son treillage cassé par de jolis pieds ?",
+       "author": "Honoré de Balzac",
+       "work": "Modeste Mignon"
+      },
+      {
+       "text": "Mais l’ébahissement redoubla quand on l’aperçut ouvrant dans les treillages une des portes destinées à ceux qui entreraient pour offrir les victimes.",
+       "author": "Gustave Flaubert",
+       "work": ", 1862, page 345)"
+      },
+      {
+       "text": "Le",
+       "author": null,
+       "work": ", qui provient d'un semis de Clinton, est un cépage d'avenir pour la culture en treillages dans les sols profonds. On devra le planter à 4 mètres sur la ligne et le tailler à très longs bois (taille Sylvoz)."
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/treillage"
+  },
+  {
+   "name": "apocryphe",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Que l’Église ne tient pas pour canonique.",
+     "examples": [
+      {
+       "text": "Les troisième et quatrième livres d’Esdras sont apocryphes.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "De la part de l’Église catholique, avouer que Daniel est un apocryphe du temps des Macchabées serait avouer qu’elle s’est trompée ; si elle s’est trompée en cela, elle a pu se tromper en autre chose ; elle n’est plus divinement inspirée.",
+       "author": "Ernest Renan",
+       "work": "Souvenirs d’enfance et de jeunesse"
+      }
+     ],
+     "precisions": [
+      "Religion"
+     ]
+    },
+    {
+     "meaning": "Qualifie des écrits dont l’autorité est suspecte, des livres, des histoires dont l’authenticité n’est pas établie.",
+     "examples": [
+      {
+       "text": "Flétrissez aussi le charlatanisme de ces pseudo-virtuoses qui ont obtenu des succès apocryphes à New-York ou en Californie, et qui, précédés de réputations flambardes, à base de réclame, escortés de notices abracadabrantes, viennent défigurer sur nos grandes scènes lyriques des partitions dont elles ridiculisent la majesté par les exagérations de leur style exotique.",
+       "author": null,
+       "work": "Études pratiques de style vocal"
+      },
+      {
+       "text": "La première dynastie de l'Égypte était regardée comme apocryphe et comme n'ayant jamais vécu que dans l'imagination des prêtres.",
+       "author": "Pierre Louÿs",
+       "work": "L'ile mystérieuse"
+      }
+     ],
+     "precisions": [
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Qualifie une information, une nouvelle dont on doute, à laquelle on ne peut guère ajouter foi.",
+     "examples": [
+      {
+       "text": "On raconte que, pour motiver son équipe de football, l’entraîneur de Harvard a un jour étranglé un bull-dog – la mascotte du rival Yale. J’espère que cette anecdote est apocryphe.",
+       "author": "Howard Gardner",
+       "work": "Les 5 formes d'intelligence pour affronter l'avenir"
+      }
+     ],
+     "precisions": [
+      "En particulier"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/apocryphe"
+  },
+  {
+   "name": "misonéisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Attitude qui consiste à rejeter toute innovation, tout changement.",
+     "examples": [
+      {
+       "text": "Ces enfants trouvent que leurs parents font preuve de misonéisme.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Restreindre la part de la réflexion dans l'enseignement, c'est, dans la même mesure, le vouer à l'immobilisme. Et peut-être est-ce là ce qui explique en partie un fait surprenant et que nous aurons à constater, c'est l'espèce de misonéisme dont notre enseignement secondaire a fait preuve pendant des siècles.",
+       "author": null,
+       "work": "L'Évolution pédagogique en France"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/misonéisme"
+  },
+  {
+   "name": "satori",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Éveil spirituel brusque et complet que le disciple du bouddhisme zen cherche à réaliser par la méditation.",
+     "examples": [
+      {
+       "text": "Exemple d’utilisation manquant.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/satori"
+  },
+  {
+   "name": "cénesthésie",
    "type": "nom commun féminin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Corps d’infanterie chez les Romains.",
+     "meaning": "Impression générale d’aise ou de malaise, résultant d’un ensemble de sensations provenant du corps à l’exclusion des données des appareils sensoriels.",
      "examples": [
       {
-       "text": "Ensuite viennent les « tribuns angusticlaves », c’est-à-dire porteurs d’une « bande [pourpre] étroite » parce qu’ils appartiennent à l’ordre équestre ; ils commandent deux des dix cohortes de fantassins, soit douze centuries.",
-       "author": "Pierre Renucci",
-       "work": "Claude"
+       "text": "Ces divers accès, conséquences d’une cénesthésie par trop cultivée, s’étaient évanouis tout d’un coup sous l’effet de la nécessité.",
+       "author": "Franz Werfel",
+       "work": "Les Quarante Jours du Musa Dagh"
       }
      ],
-     "precisions": [
-      "Antiquité romaine",
-      "Militaire"
-     ]
-    },
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/cénesthésie"
+  },
+  {
+   "name": "cote",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
     {
-     "meaning": "Troupe.",
+     "meaning": "Code alphabétique, numéral ou alphanumérique dont on se sert pour classer les pièces d’un procès, d’un inventaire, pour identifier et ranger les livres dans une bibliothèque et les documents dans les archives, etc.",
      "examples": [
       {
-       "text": "De vaillantes cohortes. — Il rallia ses cohortes.",
+       "text": "Ces pièces sont à la cote",
+       "author": null,
+       "work": ""
+      },
+      {
+       "text": "Enregistré au dossier sous la cote « D 2835 », il compte sept pages, qui seraient certainement passionnantes… s’il en subsistait autre chose que quelques lignes de la première page : nom, adresse, date de naissance de Güney, et rien d’autre.",
+       "author": "Dominique Simonnot",
+       "work": "Rideau noir sur un crime d’État"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Appréciation d’un candidat ou d’une personne basée sur une estimation de sa valeur morale ou sociale.",
+     "examples": [
+      {
+       "text": "Soigner sa cote d’amour.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Avoir la cote.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Cote de popularité.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Montant d’une cotisation, quote-part imposée à chaque contribuable.",
+     "examples": [
+      {
+       "text": "Cote mobilière ; cote foncière.",
        "author": null,
        "work": null
       }
      ],
      "precisions": [
-      "Par extension",
-      "Poésie",
-      "Surtout au pluriel"
+      "Droit",
+      "Fiscal"
      ]
     },
     {
-     "meaning": "Groupe de personnes.",
+     "meaning": "Constatation officielle des cours  qui se négocient par l’intermédiaire d’agents financiers spécialisés.",
      "examples": [
       {
-       "text": "Une coalition se forme dans l’ombre et l’on dirige contre moi, un tir de barrage. Me voilà propre avec cette cohorte d’adversaires sur les reins.",
-       "author": "Victor Méric",
-       "work": "Les Compagnons de l’Escopette"
-      }
-     ],
-     "precisions": [
-      "Figuré",
-      "Religion"
-     ]
-    },
-    {
-     "meaning": "Troupe d’anges ou de bienheureux.",
-     "examples": [
-      {
-       "text": "Les saintes cohortes.",
+       "text": "Quelle est la cote des actions de ce groupe financier à la Bourse ?",
        "author": null,
        "work": null
-      }
-     ],
-     "precisions": [
-      "Figuré",
-      "Religion"
-     ]
-    },
-    {
-     "meaning": "Ensemble d’individus ayant vécu un même événement au cours d’une période donnée.",
-     "examples": [
+      },
       {
-       "text": "La cohorte des femmes ayant eu leur premier enfant en 2005.",
-       "author": null,
-       "work": null
+       "text": "Ni les capitaux, ni les patronages puissants ne lui avaient manqué au début, et il lui avait suffi de paraître pour être admise aux honneurs de la cote.",
+       "author": "Émile Gaboriau",
+       "work": "L’Argent des autres"
       }
      ],
      "precisions": [
-      "Démographie"
+      "Finance",
+      "Bourse",
+      "d’une valeur, d’une monnaie, d’une marchandise"
      ]
     },
     {
-     "meaning": "Niveau intermédiaire introduit entre légion et ordre afin de mieux décomposer l’arbre de la vie entre les classes et les ordres de la classification classique du vivant.",
+     "meaning": "Tableau indicateur du taux des effets publics, du change, etc.",
      "examples": null,
      "precisions": [
-      "Biologie"
+      "Finance",
+      "Bourse",
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Évaluation numérale qui sert à exprimer l’élévation au-dessus d’un point altimétrique de référence d’un terrain, d’un cours d’eau, d’un point quelconque.",
+     "examples": [
+      {
+       "text": "Cote d’altitude.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Cote de niveau.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "En mathématiques et en physique, pour les problèmes dans l'espace, la cote correspond en général à la coordonnée z.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Géographie"
+     ]
+    },
+    {
+     "meaning": "Rapport des probabilités respectives de l’événement et du non-événement.",
+     "examples": [
+      {
+       "text": "Si la probabilité d’une chose est π(x), sa cote est π(x)/(1 - π(x)).",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Mathématiques",
+      "Statistiques"
+     ]
+    },
+    {
+     "meaning": "Rapport indiquant la rétribution d'un pari sportif s'il est réussi.",
+     "examples": [
+      {
+       "text": "Ce jockey monte un cheval dont la cote est de 10 contre 1.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "La cote de cette équipe de Hockey est très élevée auprès des bookmakers.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Sport",
+      "Équitation"
+     ]
+    },
+    {
+     "meaning": "Dimension indiquée sur le plan d’une pièce.",
+     "examples": [
+      {
+       "text": "L’abaque figuré ici comprend toutes les valeurs utiles pour",
+       "author": null,
+       "work": "et"
+      },
+      {
+       "text": "Les éléments d’une cote sont les lignes d’attache, la ligne de cote, les extrémités, la valeur de la dimension et éventuellement, si la place manque, la ligne de repère.",
+       "author": null,
+       "work": "Guide du dessinateur industriel"
+      }
+     ],
+     "precisions": [
+      "Technique",
+      "Architecture"
+     ]
+    },
+    {
+     "meaning": "Note, appréciation.",
+     "examples": null,
+     "precisions": [
+      "Argot polytechnicien"
+     ]
+    },
+    {
+     "meaning": "Nombre exprimant l'altitude positive ou négative d'un point ou d'une courbe de niveau.",
+     "examples": null,
+     "precisions": [
+      "Cartographie"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/cohorte"
+   "link": "https://fr.wiktionary.org/wiki/cote"
   },
   {
-   "name": "souquenille",
+   "name": "moloch",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Longue blouse, en grosse toile, que portaient les cochers, les palefreniers (xviie et xviiie s.).",
+     "meaning": "Lézard australien du genre Moloch.",
+     "examples": [
+      {
+       "text": "Exemple d’utilisation manquant.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Récipient en plomb utilisé part les alchimistes.",
+     "examples": null,
+     "precisions": [
+      "Alchimie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/moloch"
+  },
+  {
+   "name": "carrousel",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Exercice de parade où des cavaliers, divisés en quadrilles, exécutent des évolutions variées et des jeux.",
+     "examples": [
+      {
+       "text": "Le carrousel se compose de figures de manège entrecoupées de courses de bagues, de têtes à terre, et de dard, pendant lesquelles les cavaliers auront à déployer, solidité, énergie, souplesse , grâce et adresse.",
+       "author": null,
+       "work": "École du cavalier au manège: basée sur les principes de l’ordonnance de cavalerie à l’usage des instructeurs"
+      },
+      {
+       "text": "Gilbert Waast nous raconte un fameux carrousel organisé à Mons-en-Pévèle en juillet 1928 : « De fringants cavaliers défilent dans les rues du bourg ; ils se rendent vers la place où les accueille amicalement le Comité de la fête, […]. »",
+       "author": null,
+       "work": "Le pays de Pévèle en ce temps-là: 1880-1945"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Place où se déroulent ces parades.",
+     "examples": null,
+     "precisions": [
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Groupe d’engins qui se déplacent en cercle ou en noria.",
+     "examples": [
+      {
+       "text": "La circulation automobile ne doit augmenter que dans des proportions modérées, pour ne pas aboutir à un carrousel automobile incessant, générateur de gaz toxiques en tous genres, nuisibles à la faune et à la flore.",
+       "author": null,
+       "work": "Revue forestière française"
+      },
+      {
+       "text": "Je vis, au-dessus du pont, un groupe d’avions qui formait carrousel. D’après leur silhouette, je les pris pour des Potez 63, bien que cela m’étonnât de voir voler des avions français.",
+       "author": null,
+       "work": "Danser sur la corde: Journal 1942-1946"
+      }
+     ],
+     "precisions": [
+      "Par analogie"
+     ]
+    },
+    {
+     "meaning": "Manège de chevaux de bois.",
+     "examples": [
+      {
+       "text": "En ce temps-là, Antoine Cornélius Tewe, mon grand-père, exploitait un carrousel à vapeur et, comme d’autres forains, il commença par enfermer son manège dans des abris de plus en plus grands afin de protéger le public des intempéries et de le retenir plus longtemps.",
+       "author": null,
+       "work": "Il était une fois la fête foraine: de 1850 à 1950 ; Parc et Grande Halle de la Villette, 18 septembre 1995 - 14 janvier 1996"
+      },
+      {
+       "text": "Le résultat de ces dernières observations s’est montré négatif. Pas plus que chez les adultes, on n’observe de déviations régulières de la tête chez les enfants qui tournent sur un carrousel.",
+       "author": "Élie de Cyon",
+       "work": "L’Oreille : organe d’orientation dans le temps et dans l’espace"
+      },
+      {
+       "text": "La fête foraine (ducasse) est arrivée. Les barakis ont installé les carrousels, les manèges d’autos-tamponneuses, les loteries, les baraques à frites. On mangera ces dernières – les frites, pas les baraques – bien grasses, bien charnues, façon Jacques Brel chez Eugène, avec les doigts, à même le cornet en papier.",
+       "author": null,
+       "work": "Cinq nouvelles injures Haddockiennes (Joe Krapov)"
+      }
+     ],
+     "precisions": [
+      "Nord de la France",
+      "Belgique",
+      "Suisse",
+      "Québec"
+     ]
+    },
+    {
+     "meaning": "Partie d’une machine-outil qui tourne comme un manège.",
+     "examples": [
+      {
+       "text": "Cette société a réalisé un carrousel d’ensachage pour sacs de grande contenance (de 10 à 50 kg) dont la cadence en fonction de la densité et des caractéristiques du produit peut atteindre 1 200 sacs/heure […].",
+       "author": null,
+       "work": "Coopération agricole"
+      },
+      {
+       "text": "La pression de remplissage reste faible et les moules sont en général placés sur des carrousels ou sur des barillets. Les temps de refroidissement sont élevés, ce qui justifie l’utilisation de plusieurs moules.",
+       "author": null,
+       "work": "Recyclage des thermoplastiques"
+      },
+      {
+       "text": "Ma dernière vision de lui, alors que je lançais un grand au revoir, fut celle d’un riche milliardaire perdu dans le carrousel des bagages, parmi la plèbe, jouant des coudes avec le reste des mortels afin de récupérer ses bagages.",
+       "author": null,
+       "work": "Big Deal"
+      }
+     ],
+     "precisions": [
+      "Industrie"
+     ]
+    },
+    {
+     "meaning": "Galerie de photos qui défilent latéralement sur une page web.",
+     "examples": [
+      {
+       "text": "[…], cet ouvrage propose enfin de nombreux codes sources commentés pour concevoir de véritables projets web : d’une galerie d’images à un carrousel animé en passant par une page web complète.",
+       "author": null,
+       "work": "Bootstrap 3: Le framework 100% Web Design"
+      },
+      {
+       "text": "Les carrousels d’images sont très appréciés des designers car ils offrent la possibilité à l’utilisateur de visionner de multiples images, tout en leur consacrant une place réduite sur la page.",
+       "author": null,
+       "work": "jQuery: Le framework JavaScript du Web 2.0"
+      }
+     ],
+     "precisions": [
+      "Informatique"
+     ]
+    },
+    {
+     "meaning": "Menu graphique, généralement tridimensionnel, qui fait défiler de manière cyclique sur un écran un ensemble d’images donnant chacune accès à un contenu.",
+     "examples": null,
+     "precisions": [
+      "Informatique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/carrousel"
+  },
+  {
+   "name": "yatagan",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Sorte de sabre turc, à lame recourbée et dont le tranchant forme, vers la pointe, une courbe rentrante.",
+     "examples": [
+      {
+       "text": "Un coup de yatagan.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Pour se donner l’air plus terrible, chaque franc-tireur laissait pousser sa barbe et ses moustaches, si bien qu’à la promenade le monde ne se connaissait plus. De loin vous voyiez un brigand des Abruzzes qui venait sur vous, la moustache en croc, les yeux flamboyants, avec un tremblement de sabres, de revolvers, de yatagans ; et puis, quand on s’approchait, c’était le receveur Pégoulade.",
+       "author": "Alphonse Daudet",
+       "work": "La défense de Tarascon"
+      },
+      {
+       "text": "Tous deux nous crûmes entendre à notre porte une troupe de djinns, ou des hommes à turban, rampant sur les marches vermoulues, avec des poignards et des yatagans dégainés.",
+       "author": "Pierre Loti",
+       "work": "Aziyadé"
+      },
+      {
+       "text": "Au bord de la terrasse, les feuilles se découpent en lames recourbées de minuscules yatagans.",
+       "author": "Pierre Silvain",
+       "work": "Assise devant la mer"
+      }
+     ],
+     "precisions": [
+      "Armement"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/yatagan"
+  },
+  {
+   "name": "concussion",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Profit illicite que l’on fait dans l’exercice d’une fonction publique.",
+     "examples": [
+      {
+       "text": "Dans une lettre adressée au ministre des finances que Mediapart a pu consulter, le procureur général près la Cour des comptes, Gilles Johanet, estime que le traitement du dossier fiscal de Tapie, en 2008-2009, a donné lieu à un délit de concussion (octroi d'un avantage indu).",
+       "author": null,
+       "work": "Mediapart"
+      },
+      {
+       "text": "[…] et les vastes constructions seigneuriales, qui pour être bâties voulaient les profits de la maltôte, ceux des fermes générales, les concussions autorisées, ou les grandes fortunes aristocratiques détruites aujourd’hui par le marteau du Code civil.",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      },
+      {
+       "text": "On prit, pour mettre Peyrade à l’écart, le vulgaire prétexte de concussion : il avait favorisé la contrebande en partageant quelques profits avec le haut commerce.",
+       "author": "Honoré de Balzac",
+       "work": "Splendeurs et misères de courtisanes"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Secousse.",
+     "examples": null,
+     "precisions": [
+      "Vieilli"
+     ]
+    },
+    {
+     "meaning": "Entrechoc : se dit en organologie pour les idiophones dont deux parties identiques sont frappées l’une contre l’autre.",
+     "examples": [
+      {
+       "text": "Les cymbales et les castagnettes sont des idiophones à concussion.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Que ce soit au sein de la",
+       "author": null,
+       "work": "ou de toute autre formation traditionnelle, l’organologie des Newar est partout caractérisée par une étonnante profusion de membranophones et d’idiophones par concussion."
+      }
+     ],
+     "precisions": [
+      "Musique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/concussion"
+  },
+  {
+   "name": "embrèvement",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Manière d’entailler une pièce de bois, pour en rendre l’assemblage ferme avec une autre pièce.",
+     "examples": [
+      {
+       "text": "Le plus fréquemment employé est l’assemblage à tenon et mortaise, avec embrèvement.",
+       "author": null,
+       "work": "Traité de stabilité des constructions: leçons professées au Conservatoire national des arts et métiers et à l’École spéciale d’architecture"
+      }
+     ],
+     "precisions": [
+      "Menuiserie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/embrèvement"
+  },
+  {
+   "name": "arboretum",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Jardin botanique où sont collectionnés des arbres.",
+     "examples": [
+      {
+       "text": "Les arboretums anciens ont été préalablement inventoriés par J. POURTET en 1975. Il s'agit le plus souvent de collections à usage dendrologique ou forestier (grands placeaux permettant de juger de l'intérêt d'une espèce en peuplement) […].",
+       "author": null,
+       "work": "Les ressources génétiques forestières en France"
+      },
+      {
+       "text": "Les arboretums sont des collections d'essences exotiques établies en principe dans des Macrosites représentatifs des zones d'introduction possibles. C'est la méthode traditionnelle utilisée en Europe depuis la fin du XVIIIe siècle pour comparer les essences.",
+       "author": null,
+       "work": "Génétique et amélioration des arbres forestiers"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/arboretum"
+  },
+  {
+   "name": "fustiger",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/fustiger",
+   "definitions": [
+    {
+     "meaning": "Frapper à coups de bâton ou de verges.",
+     "examples": [
+      {
+       "text": "Celui qui a Haute-Justice a juridiction puissance & connoissance des cas requérans mort & dernier supplice, mutilation, incision de membres & autres peines corporelles comme fustiger, pilorier, écheler, bannir, marquer, déporter & autres semblables.",
+       "author": null,
+       "work": "Conférence de la Coutume de Sens: avec le droit romain, les ordonnances du royaume & les autres Coutumes"
+      },
+      {
+       "text": "De mon temps on les eût fustigés avec un fagot dont on les eût brûlés ensuite.",
+       "author": "Victor Hugo",
+       "work": "Notre-Dame de Paris"
+      },
+      {
+       "text": "F° 67r° : un dessin formant scène – satyre fustigeant une satyresse, devant une statue-terme de Priape. Copie d'un détail d'une gravure de M. Raimondi ([…]) d'après un bas-relief antique à Rome.",
+       "author": "Pierre Paul Rubens",
+       "work": "Théorie de la figure humaine"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Administrer une correction, une réprimande.",
+     "examples": [
+      {
+       "text": "Il mérite d’être fustigé d’importance.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Figuré"
+     ]
+    },
+    {
+     "meaning": "Blâmer ; stigmatiser.",
+     "examples": [
+      {
+       "text": "Les femmes sont descendues dans la rue pour fustiger les dictatures, sans pour autant mettre en avant leurs droits, croyant que la revendication de la démocratie et de la liberté les incluait d'office.",
+       "author": "Télérama",
+       "work": "Opprimer, c'est sacré"
+      },
+      {
+       "text": "Les archives municipales de Nancy possèdent des doubles des lettres envoyées au maire de Bruyères pour fustiger cette pratique qui conduit la fille malade à arriver sans le sou à Nancy.",
+       "author": null,
+       "work": "Une maison de tradition : le 52 ; Bruyères et la prostitution, 1800-1946"
+      },
+      {
+       "text": "Quant aux spiritualistes de la fin du XIXe siècle, ils fustigent volontiers la bourgeoisie voltairienne qu'ils qualifient de matérialiste, d’hypocrite et qu'ils jugent faussement respectable.",
+       "author": null,
+       "work": "Voltaire"
+      },
+      {
+       "text": "Depuis fort longtemps, « on » se sert des Chrétiens pour vilipender, fustiger et guerroyer les Musulmans. Depuis fort longtemps, « on » oppose le Christianisme à l'Islam!",
+       "author": null,
+       "work": "Sociologie du Français musulman : Perspectives d'avenir ?"
+      },
+      {
+       "text": "Sur un plan plus particulier, quiconque a lu mes textes sait que j’ai toujours fustigé les identités, les sectes et les folklores, ironisé sur la « gouroufication » et les « japoniaiseries ».",
+       "author": "Kenneth White",
+       "work": "Dialogue avec Deleuze: politique, philosophie, géopoétique"
+      }
+     ],
+     "precisions": [
+      "Par analogie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/fustiger"
+  },
+  {
+   "name": "causeuse",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Petit canapé d’une forme favorable à la causerie, où peuvent s’asseoir deux personnes.",
+     "examples": [
+      {
+       "text": "Assise sur une causeuse à l'autre coin de la cheminée, en face de son mari, la mère était entourée de vêtements épars ….",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      }
+     ],
+     "precisions": [
+      "Mobilier"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/causeuse"
+  },
+  {
+   "name": "frac",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Vêtement en drap noir que les hommes portent dans une cérémonie, une soirée et qui se termine en deux longues basques dites queue de morue.",
+     "examples": [
+      {
+       "text": "[…] cette caressante poésie femelle a pour auteur un petit ambitieux, serré dans son frac, à tournure de diplomate, rêvant une influence politique, aristocrate à en puer, musqué, prétentieux.",
+       "author": "Honoré de Balzac",
+       "work": "Modeste Mignon"
+      },
+      {
+       "text": "Entends-tu, Potapitch ? — dit-elle à un petit vieillard orné d’une cravate blanche étalée sur un frac, et d’un crâne déplumé, son majordome, qu’elle avait emmené avec ses bagages.",
+       "author": "Fiodor Dostoïevski",
+       "work": "Le Joueur"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/frac"
+  },
+  {
+   "name": "clepsydre",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Horloge qui indique la marche du temps par l’écoulement d’une certaine quantité d’eau.",
+     "examples": [
+      {
+       "text": "Les anciens se servaient ordinairement de clepsydres pour mesurer le temps.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "La clepsydre est l’un des plus anciens instruments découverts pour mesurer la durée du temps.",
+       "author": null,
+       "work": "Construire la notion de temps à l’école maternelle"
+      }
+     ],
+     "precisions": [
+      "Horlogerie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/clepsydre"
+  },
+  {
+   "name": "madré",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui est tacheté, marbré, marqué de diverses couleurs.",
+     "examples": [
+      {
+       "text": "Porcelaine madrée.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Qualifie un bois qui a de petites taches brunes.",
+     "examples": null,
+     "precisions": [
+      "En particulier"
+     ]
+    },
+    {
+     "meaning": "Qualifie un léopard à la robe tachetée.",
+     "examples": null,
+     "precisions": [
+      "En particulier"
+     ]
+    },
+    {
+     "meaning": "Rusé, matois, qui sait plus d’un tour.",
+     "examples": [
+      {
+       "text": "C’était un gros garçon de vingt-cinq ans, lourd et madré.",
+       "author": "Émile Zola",
+       "work": "Au Bonheur des Dames"
+      },
+      {
+       "text": "[…] le vieux souriait, et, dans sa figure madrée, plissée de rides, creusée de sillons, embroussaillée de poils, ses petits yeux vifs et clignotants brillaient étrangement.",
+       "author": "Louis Pergaud",
+       "work": "La Vengeance du père Jourgeot"
+      },
+      {
+       "text": "Ce diable est vilainement madré.",
+       "author": "Jean Ray",
+       "work": "Harry Dickson, L'Etrange Lueur verte"
+      },
+      {
+       "text": "Un renard, jeune encore, bien que des plus madrés […]",
+       "author": "Jean de La Fontaine",
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Figuré",
+      "Familier"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/madré"
+  },
+  {
+   "name": "charmille",
+   "definitions": [
+    {
+     "meaning": "Jeune charme.",
+     "examples": [
+      {
+       "text": null,
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      null
+     ]
+    },
+    {
+     "meaning": "Allée, berceau de charmes ou de toutes sortes d'arbres.",
      "examples": [
       {
        "text": null,
@@ -421,272 +1822,911 @@
    ],
    "type": "nom féminin",
    "conjugation_link": null,
-   "link": "https://larousse.fr/dictionnaires/francais/souquenille"
+   "link": "https://larousse.fr/dictionnaires/francais/charmille"
   },
   {
-   "name": "ruffian",
+   "name": "flave",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Jaune, jaunissant, jaunâtre, pâle.",
+     "examples": [
+      {
+       "text": "Dans ton con à l’odeur cochonne  Que surplombe une motte flave  Et qu’un duvet roux environne",
+       "author": "Paul Verlaine",
+       "work": "Régals"
+      },
+      {
+       "text": "Mais le rose sourire divinement las  Du soir mystérieux qui fleurit la mer calme  Et les rayons d’adieu qui baisent les sommets  Me rappellent vers ces flaves dunes des grèves  Où jadis la Fée blanche, languide et pâmée,  Dans le ciel tout semé de fuchsias de rêve,  Éployait ses cheveux solaires au couchant,  […]",
+       "author": "John-Antoine Nau",
+       "work": "Vers la Fée Viviane"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/flave"
+  },
+  {
+   "name": "fellaga",
    "type": "nom commun masculin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Variante de rufian.",
+     "meaning": "Nom donné, en Tunisie, puis en Algérie, aux partisans des mouvements de libération nationale soulevés contre l’autorité française pour obtenir l’indépendance de leurs pays.",
      "examples": [
       {
-       "text": "Il n’y a que la fortune pour faire d’un ruffian un honnête homme, soumis aux lois humaines.",
-       "author": "Jean Ray",
-       "work": "Malpertuis, éd. 1978 p. 8"
+       "text": "Ils doivent intensifier leur action dans la lutte contre les fellaga et assurer avec le maximum d’efficacité le maintien de l’ordre sur le territoire.",
+       "author": null,
+       "work": "Fonctionnaires de la République et artisans de l’empire"
       },
       {
-       "text": "Ainsi alerté, j’observe. Des ruffians surgissent de l’ombre, poussent des portes entre-baillées, disparaissent.",
+       "text": "Autour du feu, les fellagas discutent entre eux tout en partageant des morceaux de viande avec les hommes du village.",
+       "author": null,
+       "work": "La Mort de Charles de Foucauld"
+      },
+      {
+       "text": "L'ennemi réel n'était pas le pauvre",
+       "author": null,
+       "work": "enfoui dans la boue des rizières, le chleuh retrouvant son"
+      }
+     ],
+     "precisions": [
+      "Histoire, 1920-1962"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/fellaga"
+  },
+  {
+   "name": "ingénu",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui a de la simplicité et presque de la naïveté dans la franchise.",
+     "examples": [
+      {
+       "text": "Un homme ingénu.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Un esprit ingénu.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Cette jeune personne est très ingénue.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Il a l’air ingénu, fort ingénu.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Elle a dit cela d’une manière tout à fait ingénue.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Déclaration, réponse ingénue.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Il fit un aveu ingénu",
+       "author": null,
+       "work": ""
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/ingénu"
+  },
+  {
+   "name": "quiétisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Doctrine d’apparence mystique, élaborée par Miguel de Molinos, au XVIIe siècle, et représentée en France par Fénelon. Elle vise la perfection chrétienne à travers un état de quiétude passive et confiante de l’âme.",
+     "examples": [
+      {
+       "text": "Le quiétisme, tant accusé d’obscurité, n’avait été que trop clair. Il érigeait en système et posait avec franchise comme suprême perfection l’état d'immobilité et d’impuissance où l’âme parvient à la longue quand elle abdique son activité.  N’était-ce pas simplicité que de formuler si bien cette doctrine d’assoupissement, de donner à grand bruit une théorie de sommeil?",
+       "author": "Jules Michelet",
+       "work": "Du prêtre, de la femme, de la famille"
+      }
+     ],
+     "precisions": [
+      "Religion catholique"
+     ]
+    },
+    {
+     "meaning": "Attitude politique ou religieuse qui pourrait rappeler le quiétisme de Molinos par le refus d’intervenir dans les affaires publiques.",
+     "examples": [
+      {
+       "text": "[…], ils formulèrent la proposition suivant laquelle l’obéissance au souverain, bon ou mauvais, était préférable à la",
+       "author": null,
+       "work": "(anarchie, désordre). Ce qui équivalait à la consécration formelle du quiétisme politique de l’islam."
+      }
+     ],
+     "precisions": [
+      "XXe siècle",
+      "Par analogie",
+      "Par extension"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/quiétisme"
+  },
+  {
+   "name": "tarsier",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Espèce de la famille des tarsidés ou tarsiidés  et du genre Tarsius.",
+     "examples": [
+      {
+       "text": "Chez les tarsiers, l’orbite est agrandie ; la tête est grosse et ronde, les yeux très gros, les oreilles grandes ; les membres postérieurs sont plus grands que les antérieurs, particulièrement le tarse ; ce sont des sauteurs excellents.",
+       "author": null,
+       "work": "Dictionnaire des sciences animales"
+      },
+      {
+       "text": "Le Yara-ma-yha-who est, cela ne fait aucun doute, un Tarsier spectre (",
+       "author": "Bernard Heuvelmans",
+       "work": "), le plus énigmatique de tous les Primates. C’est un petit être velu au visage rond et plat, dévoré par deux yeux démesurés. Il est arboricole, mais sur les branches, il se dresse parfois sur ses pattes de derrière quand il se sent menacé… Outre ses yeux, […] il se caractérise par l’allongement de ses doigts et de ses orteils, qui se terminent par des petites pelotes garnies de ventouses."
+      }
+     ],
+     "precisions": [
+      "Zoologie",
+      "Tarsiidae"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/tarsier"
+  },
+  {
+   "name": "inexpugnable",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui ne peut être forcé ou être pris d’assaut.",
+     "examples": [
+      {
+       "text": "Louis IX, attachant une grande importance à la place de Carcassonne qui couvrait cette partie du domaine royal devant l’Aragon, […], voulut en faire une forteresse inexpugnable.",
+       "author": "Eugène Viollet-le-Duc",
+       "work": "La Cité de Carcassonne, 1888"
+      },
+      {
+       "text": "Elles s’enfuient ensuite vers leur demeure inexpugnable, portant dans leurs seins les fruits d’unions brutales et sans volupté.",
+       "author": "Renée Dunan",
+       "work": "Ces Dames de Lesbos"
+      },
+      {
+       "text": "On faisait bloc. On était bloc. Inexpugnable. Indélogé.",
+       "author": "Alain Damasio",
+       "work": "La Horde du Contrevent"
+      },
+      {
+       "text": "C'est l’inexpugnable arrogance de votre beauté qui m'asperge.",
+       "author": "Hubert Bonisseur de La Bath",
+       "work": "OSS 117 : Rio ne répond plus"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/inexpugnable"
+  },
+  {
+   "name": "vulgivague",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui se prostitue.",
+     "examples": [
+      {
+       "text": "Le mariage qui est le plus grand frein de l'impudicité vulgivague.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Des sophistes, ou plutôt des raisonneurs imprudents, ont prétendu que l'existence des femmes vulgivagues était utile et nécessaire pour le maintien de l'ordre politique et la tranquillité des citoyens.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "N'y a-t-il donc que la Vénus vulgivague ou millionnaire qui puisse être appréciée par vous ?",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "– Je croyais être le galant de passage d’une caille coiffée, je n’ai séduit qu’une vénus vulgivague.",
+       "author": "Richard Jorif",
+       "work": "Tohu-Bohu"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Qui erre, qui vagabonde.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/vulgivague"
+  },
+  {
+   "name": "sémillant",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui est extrêmement vif.",
+     "examples": [
+      {
+       "text": "Au milieu de ces salons remplis de femmes élégantes et belles, Julie triompha de la comtesse. Spirituelle, vive, sémillante, elle eut autour d’elle les hommes les plus distingués de la soirée.",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      },
+      {
+       "text": "Les bars, mal éclairés, grouillaient d’une espèce disparate et c’est dans un de ces bars que, la première nuit, pénétrait la Caille accompagné d’un vieillard sémillant.",
+       "author": "Francis Carco",
+       "work": "Jésus-la-Caille"
+      },
+      {
+       "text": "[…] cette première entrevue, où Mendès sémillant, enhardi, épanoui, est le bouffon, et Villiers et Mallarmé méconnus, miséreux, sont les seigneurs […]. — (Henri Mondor,",
+       "author": "Henri Mondor",
+       "work": ", Gallimard, 1941, p. 137)"
+      },
+      {
+       "text": "Il est interrompu par la venue de Claudette, plus sémillante que toujours, la tétance brandie sous un teeshirt représentant un tigre mordoré en train de feuler comme un con.",
+       "author": "Frédéric Dard",
+       "work": "San-Antonio : La pute enchantée"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/sémillant"
+  },
+  {
+   "name": "musc",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Matière brune odorante que contient une poche située dans le ventre de certains cervidés d'Asie centrale.",
+     "examples": [
+      {
+       "text": "Musc de Chine, de Tartarie.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Le musc pur, soluble dans l’eau chaude presque en totalité, l’est également dans l’alcool et l’éther.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Ce vêtement sent le musc.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Un grain de musc.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Cosmétologie"
+     ]
+    },
+    {
+     "meaning": "Parfum préparé avec cette substance.",
+     "examples": null,
+     "precisions": [
+      "Par extension"
+     ]
+    },
+    {
+     "meaning": "Cervidé qui habite les pentes les plus rapides et les plus sauvages des hauts sommets de l'Asie.",
+     "examples": null,
+     "precisions": [
+      "Par extension",
+      "Zoologie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/musc"
+  },
+  {
+   "name": "taqiya",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Pratique consistant à dissimuler sa foi sous la contrainte afin d’éviter tout préjudice et réaction hostile d’un milieu extérieur défavorable.",
+     "examples": [
+      {
+       "text": "Leur doctrine autorisant la taqiya n'était cependant pas plus ferme que la doctrine sunnite car, si elle se fondait sur l’attitude de Ali pendant le règne des trois premiers califes où elle voyait une « dissimulation » sous contrainte, elle exaltait aussi le courage des imâms martyrs de la foi comme al-Husayn.",
+       "author": null,
+       "work": "Dictionnaire historique de l'islam"
+      }
+     ],
+     "precisions": [
+      "Islam"
+     ]
+    },
+    {
+     "meaning": "Dissimulation de la radicalisation d’un militant islamiste.",
+     "examples": [
+      {
+       "text": "Pour camoufler leurs intentions, nombreux sont les terroristes qui pratiquent la Taqiya, une technique de dissimulation de la foi enseignée dans les camps d’Al-Qaïda en Afghanistan.",
+       "author": null,
+       "work": "www.france24.com"
+      }
+     ],
+     "precisions": [
+      "par extension"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/taqiya"
+  },
+  {
+   "name": "phalanstère",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Lieu où habiterait la commune sociétaire telle que l’avait imaginée le philosophe utopiste Charles Fourier.",
+     "examples": [
+      {
+       "text": "Quelques essais de phalanstères ont été tentés, mais ils ont toujours échoué.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Il prétend faire de Phœnix une sorte de monde à part, un véritable phalanstère où chacun pourra vivre en autarcie des fruits de son travail.",
+       "author": "José Frèches",
+       "work": "Gandhi - 1. Je suis un soldat de la paix"
+      }
+     ],
+     "precisions": [
+      "Construction"
+     ]
+    },
+    {
+     "meaning": "Maison ou immeuble où habitent de nombreuses personnes.",
+     "examples": [
+      {
+       "text": "C’est un phalanstère",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Le restaurant Grillon, ce phalanstère des canotiers, se vidait lentement.",
+       "author": "Guy de Maupassant",
+       "work": "La femme de Paul"
+      },
+      {
+       "text": "En revanche les visages de ceux qui ont accepté de poser silencieusement, en plan fixe, la caméra témoignent que cet étrange phalanstère donne à ses habitants une beauté particulière mariant force et fierté",
+       "author": null,
+       "work": "Le génie des lieux"
+      }
+     ],
+     "precisions": [
+      "Par extension",
+      "Construction"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/phalanstère"
+  },
+  {
+   "name": "gotha",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Ellipse de almanach de Gotha, bottin qui fut, entre 1763 et 1944, le guide de référence de la haute noblesse et des familles royales européennes.",
+     "examples": [
+      {
+       "text": "Être dans le gotha.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Tu te trompes, j’ai cherché dans le Gotha de cette année, me confessa naïvement Bloch, et j’ai trouvé le prince de Guermantes, habitant l’hôtel où nous sommes et marié à tout ce qu’il y a de plus grandiose, attends un peu que je me rappelle, marié à Sidonie, duchesse de Duras, née des Baux.",
+       "author": "Marcel Proust",
+       "work": "Le Temps retrouvé"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Haute noblesse européenne.",
+     "examples": [
+      {
+       "text": "Ils ne font pas partie du gotha.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Par métonymie"
+     ]
+    },
+    {
+     "meaning": "Élite fortunée.",
+     "examples": [
+      {
+       "text": "Ils appartiennent au gotha du capital, se partagent chaque année des millions d’euros, se votent des stock-options, des retraites chapeau. Ils exigent aujourd’hui des Français qu’ils acceptent une dégradation de leur protection sociale.",
+       "author": "L’Humanité",
+       "work": "Ces patrons du CAC 40 qui nous font la leçon"
+      },
+      {
+       "text": "Macron ne fera donc que passer à ce sommet du gotha économique du globe, le temps d’une allocution et de rencontres avec d’autres chefs d’État, avant de rejoindre le Puy-de-Dôme pour adresser ses vœux aux paysans.",
+       "author": "Érik Emptaz",
+       "work": "Chaud, le Macron, show !"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Avion utilisé par les Allemands pendant la Première Guerre mondiale.",
+     "examples": [
+      {
+       "text": "C’était l’époque où il y avait continuellement des raids de gothas, l’air grésillait perpétuellement d’une vibration vigilante et sonore d’aéroplanes français.",
+       "author": "Marcel Proust",
+       "work": "Le Temps retrouvé"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/gotha"
+  },
+  {
+   "name": "chambranle",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Encadrement de bois ou de pierre qui borde les portes, les fenêtres et les cheminées et qui se situe dans le plan du mur. Il joue un rôle de finition et raccord entre l’ébrasement et la surface du mur.",
+     "examples": [
+      {
+       "text": "Charles resta pendant un moment immobile, le dos légèrement appuyé sur le chambranle de la porte, …",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      },
+      {
+       "text": "Puis ils sortirent sans refermer la porte, qui se mit à battre contre son chambranle, laissant passer des bouffées de vent ….",
+       "author": "Alexandre Dumas",
+       "work": "Les Mille et Un Fantômes,)"
+      },
+      {
+       "text": "La porte extérieure fut alors repoussée contre le chambranle, et Jasper Hobson, Mac Nap et Rae rentrèrent dans le couloir, […]",
+       "author": "Jules Verne",
+       "work": "Le Pays des fourrures"
+      },
+      {
+       "text": "Aussi dans la plupart des Cathédrales, ce symbole est-il complété par l’image du « Jugement dernier » qui se déroule au-dessus des chambranles.",
+       "author": "Joris-Karl Huysmans",
+       "work": "La Cathédrale"
+      },
+      {
+       "text": "Je ne parlerai pas de mes colères, qui me viennent de lui. Mais qu’on aille voir seulement, à Saint-Sauveur, l’état dans lequel mon père mit, de deux coups de son pied unique, le chambranle de la cheminée en marbre…",
+       "author": "Colette",
+       "work": "Sido"
+      },
+      {
+       "text": "La porte de sa chambre s’ouvrit toute grande, les parfums de la paume d’ours mijotée jaillirent comme une vague déferlante, je m’agrippai au chambranle comme un homme en train de se noyer s’accroche au rebord d’un bateau…",
+       "author": "Mo Yan",
+       "work": "Le Pays de l’alcool"
+      }
+     ],
+     "precisions": [
+      "Menuiserie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/chambranle"
+  },
+  {
+   "name": "stercoraire",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui a rapport aux excréments.",
+     "examples": [
+      {
+       "text": "Matières stercoraires.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Les fistules stercoraires ou stercorales sont entretenues par le passage des excréments.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "En mes souvenirs apparaissent, toutes ruisselantes de la rosée du matin, les gracieuses touffes d’Androsace villeuse, à fleurs blanches avec un œil rose tendre ; la Violette du mont Cenis, dont les grandes corolles bleues s’étalent sur les éclats de calcaire ; la Valériane Saliunque, qui associe le suave parfum de ses inflorescences et l’odeur stercoraire de ses racines ; la Globulaire cordifoliée, formant des tapis compacts d’un vert cru semés de capitules bleus ; la Myosotis alpestre, dont l’azur rivalise avec celui des cieux ; l’Ibéris de Candolle, dont la tige menue porte une tête serrée de fleurettes blanches et plonge en serpentant au milieu des pierrailles ; la Saxifrage à feuilles opposées et la Saxifrage muscoïde, toutes les deux serrées en coussinets sombres, constellées de corolles roses pour la première, de corolles blanches lavées de jaune pour la seconde.",
+       "author": "Jean-Henri Fabre",
+       "work": "Sur le Ventoux : L’Ammophile hérissée"
+      },
+      {
+       "text": "Ce n’est pas de la colère, pourtant, se disait-il à lui-même, que j’éprouve en voyant l’envie qu’elle a d’aller picorer dans cette musique stercoraire.",
+       "author": "Marcel Proust",
+       "work": "Du Côté de chez Swann"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Qui vit sur les excréments.",
+     "examples": [
+      {
+       "text": "Cette attitude violente parut soudainement décourager Jacques qui cependant entreprit un discours qui voulait être à la fois apologétique et pithiatique mais Dominique l’interrompit pour expliquer posément qu’elle n’acceptait d’hommages que platoniques et qu’il ne pouvait être question entre eux des viles et stercoraires réalisations de l’amour charnel.",
+       "author": "Raymond Queneau",
+       "work": "Loin de Rueil"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/stercoraire"
+  },
+  {
+   "name": "carnation",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Teint d’une personne.",
+     "examples": [
+      {
+       "text": "Mais la captivante rondeur des formes, […], la transparence d’une carnation délicate, […], imprimaient à cette beauté vigoureuse la suavité féminine, la modestie enchanteresse que nous demandons à ces anges de paix et d’amour.",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      },
+      {
+       "text": "Mes yeux blonds, ma chevelure ardente, la carnation fragile de mes joues… est-ce que tout cela passerait inaperçu.",
+       "author": "Jean Rogissart",
+       "work": "Hurtebise aux griottes"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Représentation, rendu du coloris de la chair.",
+     "examples": [
+      {
+       "text": "Les carnations de ce tableau sont fort belles.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Peinture"
+     ]
+    },
+    {
+     "meaning": "Voir de carnation.",
+     "examples": null,
+     "precisions": [
+      "Héraldique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/carnation"
+  },
+  {
+   "name": "baccara",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Jeu de cartes où ce terme est usité pour accuser les valeurs zéro .\n\n Point zéro au baccara.",
+     "examples": [
+      {
+       "text": "Ils viendront solliciter en pleurnichant des dégrèvements d'impôts, me dit un fonctionnaire […], et ils risquent au baccara, au chemin de fer, des fortunes tous les soirs.",
+       "author": "Ludovic Naudeau",
+       "work": "La France se regarde : le Problème de la natalité"
+      },
+      {
+       "text": "Jeannin était joueur et même tricheur, entraîné à cela par un autre ; et insensiblement ils se mirent à tenir tripot, entendez qu'ils attiraient des inconnus à la table de nuit ; on passait du tarot au baccara pendant que nous dormions, et les étrangers étaient plumés.",
+       "author": "Alain",
+       "work": "Souvenirs de guerre"
+      },
+      {
+       "text": "La principale différence entre le Baccara en banque et le Chemin de fer réside en ce que chaque joueur, dans ce dernier jeu, devient banquier à tour de rôle.",
+       "author": null,
+       "work": "Le guide Marabout de Tous les Jeux de Cartes"
+      },
+      {
+       "text": "(Cartes à jouer)",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Cartes à jouer",
+      "10, 20, 30",
+      "Cartes à jouer"
+     ]
+    },
+    {
+     "meaning": "Faillite, échec.",
+     "examples": [
+      {
+       "text": "Être en plein baccara,",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "J'suis en plein baccara. Tiens, j'ai juste trois thunes.",
+       "author": "Albert Simonin",
+       "work": "Voilà taxi !"
+      },
+      {
+       "text": "Une gonzesse qui me fait la malle, les condés qui me rallègent aux miches, je suis en plein baccara !",
+       "author": "Albert Simonin",
+       "work": "Le Petit Simonin illustré"
+      }
+     ],
+     "precisions": [
+      "Argot"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/baccara"
+  },
+  {
+   "name": "imprécation",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Souhait de malheurs qu’on fait contre quelqu’un.",
+     "examples": [
+      {
+       "text": "[…] et je m’assis, rêvant à quoi ? à cette pauvre reine que j’avais vue si belle, si heureuse, si aimée ; qui, la veille, poursuivie des imprécations de tout un peuple, avait été conduite en charrette à l’échafaud.",
+       "author": "Alexandre Dumas",
+       "work": "Les Mille et Un Fantômes)"
+      },
+      {
+       "text": "La Moussotte ne se connaissait plus; elle en oublia de se peigner, cassa de la vaisselle et se répandit par tout le village en imprécations dont l’énergie ne cédait en rien à celle des prophètes de la Bible.",
+       "author": "Louis Pergaud",
+       "work": "Le retour"
+      },
+      {
+       "text": "Henri eut un petit rire. Il se souvint tout à coup d’une vieille chronique où il avait, pour flétrir, stigmatiser, juvénaliser les comportements bourgeois, accumulé des bataillons d’imprécations pétaradantes, de prosopopées incendiaires, d’antithèses fulgurantes.",
+       "author": "Victor Méric",
+       "work": "Les Compagnons de l’Escopette"
+      },
+      {
+       "text": "Nous voici devisant avec des Montalbanais de toutes sortes, gens fins et subtils, très avertis du fléau dont nous recherchons les causes, le dénonçant, le déplorant même, le vitupérant, le décrivant, l’analysant, l’exécrant, l’accablant d’imprécations, mais s’en tenant là.",
        "author": "Ludovic Naudeau",
        "work": "La France se regarde : le Problème de la natalité"
       }
      ],
      "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/ruffian"
-  },
-  {
-   "name": "platier",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
+    },
     {
-     "meaning": "Une surface plane légèrement inclinée vers la mer, taillée par les vagues dans une roche présentant un minimum de résistance.",
+     "meaning": "Figure par laquelle on souhaite des malheurs à celui dont on parle ou à qui l’on parle.",
      "examples": [
       {
-       "text": "Un atoll comporte un platier externe (récif externe) et un platier interne (récif interne).",
+       "text": "Les imprécations de Camille contre Rome dans la tragédie",
        "author": null,
-       "work": null
+       "work": "."
       }
      ],
      "precisions": [
-      "Géologie"
+      "En particulier",
+      "Rhétorique"
      ]
     },
     {
-     "meaning": "Surface plane sur un haut-fond sous-marin, pouvant apparaitre à marée basse [1].",
+     "meaning": "Prière solennelle faite contre quelqu’un pour attirer sur lui la vengeance, la punition divine.",
      "examples": null,
-     "precisions": [
-      "Géologie"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/platier"
-  },
-  {
-   "name": "cataplasme",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Topique, emplâtre sous la forme d’une bouillie qu’on applique sur une partie du corps.",
-     "examples": [
-      {
-       "text": "La fiente de Chévre a la vertu d'amollir les tumeurs schirreuses, de quelque difficile résolution qu'elles soient, principalement les duretez invétérées des genoux, la mêlant avec farine d'Orge & Oxycrat en forme de cataplasme.",
-       "author": null,
-       "work": "La médecine et la chirurgie des pauvres : qui contiennent des remèdes choisis faciles à préparer et sans dépenses pour la plupart des maladies internes et externes qui attaquent le corps humain"
-      },
-      {
-       "text": "Si le bain de pieds ne soulage pas l’enfant, vous mettrez à chaque pied un cataplasme de farine de graine de lin saupoudré de camphre que vous laisserez une bonne demi-heure.",
-       "author": "Sophie Rostopchine, comtesse de Ségur",
-       "work": "La Santé des enfants"
-      },
-      {
-       "text": "— Ernestine. Que contient ce récipient ? du poivre ou de la graine de moutarde pour les cataplasmes ?— Vous n’avez qu’à sentir…Jeanne avance le nez, renifle et éternue, coup sur coup, trois fois.— C’est du poivre ! constate Marie…",
-       "author": "Germaine Acremant",
-       "work": "Ces dames aux chapeaux verts"
-      },
-      {
-       "text": "Moins l'habit et la cornette, c'est une sœur de la charité qui pose des ventouses, des cataplasmes, applique des sinapismes, masse les rhumatisants, ensevelit les morts.",
-       "author": "Jean Rogissart",
-       "work": "Passantes d’Octobre"
-      },
-      {
-       "text": "Cataplasmes. Ce sont des pansements épais que l’on applique sur les blessures très infectées et sur les abcès pour faire sortir le pus et combattre l’infection.",
-       "author": null,
-       "work": "et al."
-      }
-     ],
-     "precisions": [
-      "Médecine"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/cataplasme"
-  },
-  {
-   "name": "glauque",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "De la couleur vert moyen tirant sur le bleu comme la mer.  #649B88",
-     "examples": [
-      {
-       "text": "De loin en loin, quelque écueil isolé se détache sur le vert glauque de la mer et arrête les lames qui s’y brisent en jetant leur blanche écume sur sa tète noircie.",
-       "author": "Jean Louis Armand de Quatrefages de Bréau",
-       "work": "L’Archipel de Chausey, souvenirs d’un Naturaliste"
-      },
-      {
-       "text": "La robe de Tryphèra était une mince étoffe glauque entièrement brochée d’iris à larges fleurs.",
-       "author": "Pierre Louÿs",
-       "work": "Aphrodite"
-      }
-     ],
-     "precisions": null
-    },
-    {
-     "meaning": "Qui est de couleur vert bleu.",
-     "examples": [
-      {
-       "text": "Une végétation glauque avait envahi le fromage que Mochkou m’apporta.",
-       "author": "Léopold de Sacher-Masoch",
-       "work": "Contes Galiciens"
-      }
-     ],
-     "precisions": [
-      "Botanique"
-     ]
-    },
-    {
-     "meaning": "Se dit d’une chose sans éclat, terne.",
-     "examples": null,
-     "precisions": null
-    },
-    {
-     "meaning": "Qui donne une impression de tristesse ; qui inspire la méfiance.",
-     "examples": [
-      {
-       "text": "Pour moi, l'amour, ce sont des alcôves et le trouble des interdits. L'amour doit être quelque chose de glauque et de caché.",
-       "author": "Serge Gainsbourg",
-       "work": "Pensées, provocs et autres volutes"
-      }
-     ],
-     "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/glauque"
-  },
-  {
-   "name": "belluaire",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Celui qui, dans les jeux du cirque, combattait contre les bêtes féroces.",
-     "examples": [
-      {
-       "text": "Un belluaire vint, le saisit",
-       "author": "Victor Hugo",
-       "work": "dans ses bras,"
-      }
-     ],
      "precisions": [
       "Antiquité"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/belluaire"
+   "link": "https://fr.wiktionary.org/wiki/imprécation"
   },
   {
-   "name": "bobèche",
+   "name": "fourrier",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Celui qui est chargé de pourvoir au logement des soldats quand ils passent dans une ville, et de répartir entre les escouades les vivres, les effets d’équipement, etc.",
+     "examples": [
+      {
+       "text": "Nous nous apercevons soudain que nous ignorons tous notre place au combat. Toutes les théories sortent du sac des fourriers, des sergents-majors.",
+       "author": "Jean Giraudoux",
+       "work": "Retour d’Alsace - Août 1914"
+      },
+      {
+       "text": "Tous deux avaient vécu la moitié de la guerre ensemble, jusqu’à l’armistice, Fagerolle en qualité de fourrier, furetant dans les états de la compagnie, Tacherot, comme sergent d’ordinaire, disposant des bons morceaux, du pinard, de la gniole et rabiotant les paquets de perlot.",
+       "author": "Victor Méric",
+       "work": "Les Compagnons de l’Escopette"
+      },
+      {
+       "text": "(Par apposition)",
+       "author": null,
+       "work": "Caporal fourrier."
+      }
+     ],
+     "precisions": [
+      "Militaire"
+     ]
+    },
+    {
+     "meaning": "Messager, avant-coureur.",
+     "examples": [
+      {
+       "text": "Les fourriers d’été.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Chacun s’était laissé emporter par l’audition de ces faits vieux de sept ans, souvenirs lugubres, fourriers de tant de scandales à venir",
+       "author": null,
+       "work": "Pardonnez nos offenses"
+      }
+     ],
+     "precisions": [
+      "Littéraire"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/fourrier"
+  },
+  {
+   "name": "aphorisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Courte phrase exprimant un principe ou un concept de pensée, souvent par un assemblage d'idées paradoxal, surprenant, voire comique.",
+     "examples": [
+      {
+       "text": "Par où, en généralisant, nous arrivons à cette conclusion inattendue : « la société perd la valeur des objets inutilement détruits, » — et à cet aphorisme qui fera dresser les cheveux sur la tête des protectionnistes : « Casser, briser, dissiper, ce n’est pas encourager le travail national, » ou plus brièvement : « destruction n’est pas profit. »",
+       "author": "Frédéric Bastiat",
+       "work": "Ce qu’on voit et ce qu’on ne voit pas"
+      },
+      {
+       "text": "Il émit quelques aphorismes indiscutables, tels que : « Il y a plus de goût à un grain de sel qu’à un muid de chaux, » ou : « Nécessité est de raison moitié. »",
+       "author": "Paul",
+       "work": "Les tronçons du glaive"
+      },
+      {
+       "text": "« Le mouvement perpétuel est impossible : il faut se tenir loin de ceux qui le trouvent. »Cet aphorisme incisif et précis est de Joseph Bertrand ; il devrait être écrit sur les murs des bureaux de brevets, car il détournerait peut-être certains inventeurs de la poursuite d’une vaine chimère.",
+       "author": null,
+       "work": "Le mouvement perpétuel de deuxième espèce"
+      },
+      {
+       "text": "Un jour, en rentrant chez lui, il trouva sur la table une lettre, […]. Elle commençait d’un ton très décidé : […]. Suivaient quelques aphorismes d’une si frappante justesse que nous croyons devoir les reproduire : « Qu’est ce que la vie, Une vallée d’amertume. - Le monde, Un ramas d’êtres insensibles. »",
+       "author": "Nicolas Gogol",
+       "work": "Les âmes mortes"
+      },
+      {
+       "text": "Quelque citation latine banale de ci, de là, un aphorisme philosophique ou pédagogique, une ironie forcée mais acerbe, rehaussent son prestige.",
+       "author": "Jean Rogissart",
+       "work": "Passantes d’Octobre"
+      },
+      {
+       "text": "Parfois, certes, un aphorisme se réduit à un cliché ou à une vérité générale facilement « retournable », ou d’une application si large qu’il ne résiste pas à l’analyse.",
+       "author": null,
+       "work": "Textes en archipels : anthologie"
+      },
+      {
+       "text": "L'aphorisme se rapproche de l'énigme et de l'oracle : à maints égard Apollon le patronne.",
+       "author": "Charles Le Blanc",
+       "work": "Le complexe d'Hermès"
+      }
+     ],
+     "precisions": [
+      "Rhétorique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/aphorisme"
+  },
+  {
+   "name": "caftan",
+   "definitions": [
+    {
+     "meaning": "Robe, surtout d'apparat, utilisée autrefois par les hommes, en Orient.",
+     "examples": [
+      {
+       "text": null,
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      null
+     ]
+    }
+   ],
+   "type": "nom masculin",
+   "conjugation_link": null,
+   "link": "https://larousse.fr/dictionnaires/francais/caftan"
+  },
+  {
+   "name": "malévole",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "ou  Malveillant ; malintentionné.",
+     "examples": [
+      {
+       "text": "Je me rappelle qu’au moyen âge la gorge chez les femmes n’était pas à la mode, celles qui avaient le malheur d’en avoir portaient des corsets qui la comprimaient et la dissimulaient autant que possible. Le lecteur trouve peut-être ce souvenir un peu leste : je ne prends pas ce ton par recherche et comme moyen d’esprit, Dieu m’en garde ! mais je prétends avoir la liberté du langage. J’ai cherché une périphrase pendant vingt secondes et n’ai rien trouvé de clair. Si cette liberté rend le lecteur malévole, je l’engage à fermer le livre ; car, autant je suis réservé et plat à mon comptoir et dans les réunions avec mes confrères les hommes à argent, autant je prétends être naturel et simple en écrivant ce journal le soir.",
+       "author": "Stendhal",
+       "work": "Mémoires d’un Touriste"
+      },
+      {
+       "text": "Plus que la guerre des chefs, ce qui me frappe en ces lieux, c'est la critique du chef, et des chefs. En cabinet ministériel, j'étais l'un des rares esprits ouvertement malévoles. On me passait ma sincérité, je suis Plume, donc artiste, et pour tout dire, bouffon. À l'Élysée, fin de la bien-pensance et du militantisme béat. Le mauvais esprit y est un sport collectif.",
+       "author": "Marie de Gandt",
+       "work": "Sous la plume. Petite exploration du pouvoir politique"
+      }
+     ],
+     "precisions": [
+      "Désuet",
+      "Littéraire"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/malévole"
+  },
+  {
+   "name": "maîtrise",
    "type": "nom commun féminin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Tête du chandelier, petit vase qui contient la bougie.[1]",
-     "examples": null,
-     "precisions": [
-      "Jusqu’au 17e siècle"
-     ]
-    },
-    {
-     "meaning": "[2] Petite pièce concave à rebord, percée en son milieu d’un trou cylindrique, qu’on adapte aux chandeliers, aux lustres, aux girandoles, afin de recueillir leur cire fondue. Note :  Les deux sens sont restés longtemps en usage[3], aujourd’hui le premier sens de bobèche est souvent remplacé par le mot binet[4].",
+     "meaning": "Qualité de maître, en parlant des métiers.",
      "examples": [
       {
-       "text": "Bobèche d’argent, de cuivre, de cristal. Au 18e siècle, il existait des bobèches de papier découpées en fleurs et jetables.",
-       "author": "Femme occupée à cacheter une lettre",
-       "work": "Femme occupée à cacheter une lettre"
-      },
-      {
-       "text": "Les bougies s’éteignirent une à une en faisant éclater leurs bobèches de cristal.",
-       "author": "Honoré de Balzac",
-       "work": "La Peau de chagrin"
-      },
-      {
-       "text": "C’était tantôt une manière nouvelle de façonner pour les bougies des bobèches de papier.",
-       "author": "Gustave Flaubert",
-       "work": "Madame Bovary"
-      },
-      {
-       "text": "Plus rien ne traîne. Tout est net. Sur les cheminées, les vases ont été vidés des bouchons, des bobèches ébréchées, des bouts de ficelle pleins de nœuds, des épingles à cheveux, qu’on y trouve fréquemment.",
-       "author": "Germaine Acremant",
-       "work": "Ces dames aux chapeaux verts"
-      },
-      {
-       "text": "Les cierges arrivaient rapidement au terme de leur existence ; une flamme baissant plus rapidement que les autres fit éclater une bobèche.",
-       "author": "Jean Ray",
-       "work": "La Cité de l’indicible peur"
+       "text": "La création des jurandes et des maîtrises leur fut funeste, car ces organisations n’étaient pas seulement professionnelles mais religieuses.",
+       "author": "Léon Berman",
+       "work": "Histoire des Juifs de France des origines à nos jours"
       }
      ],
      "precisions": [
-      "Début du 18e siècle"
+      "Vieilli"
      ]
     },
     {
-     "meaning": "Partie supérieure d’un chandelier, lorsque cette dernière comporte un rebord évasé semblable à celui des bobèches mobiles.",
+     "meaning": "Ensemble des contremaîtres d’un atelier, d’une usine.",
      "examples": [
       {
-       "text": "La bobèche d’un chandelier.",
+       "text": "Exemple d’utilisation manquant.",
        "author": null,
        "work": null
       }
      ],
      "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/bobèche"
-  },
-  {
-   "name": "écornifler",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/%C3%A9cornifler",
-   "definitions": [
-    {
-     "meaning": "Se procurer par ruse de quoi manger, de quoi se vêtir.",
-     "examples": [
-      {
-       "text": "Écornifler un bon dîner.",
-       "author": null,
-       "work": null
-      },
-      {
-       "text": "Écornifler quelques francs.",
-       "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Désuet"
-     ]
     },
     {
-     "meaning": "Importuner, harceler quelqu’un de façon à lui arracher un profit ou simplement à surprendre un renseignement.",
-     "examples": [
-      {
-       "text": "Il a bien su nous écornifler.",
-       "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Familier"
-     ]
-    },
-    {
-     "meaning": "Fouiner, espionner, farfouiller à la recherche de renseignements indiscrets.",
+     "meaning": "Diplôme universitaire national, créé en 1966 et supprimé par la réforme LMD, préparé en un an après une licence universitaire ou tout diplôme équivalent.",
      "examples": [
       {
        "text": "Exemple d’utilisation manquant.",
@@ -695,150 +2735,68 @@
       }
      ],
      "precisions": [
-      "Québec",
-      "Occitanie"
+      "France",
+      "Éducation"
      ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/écornifler"
-  },
-  {
-   "name": "putatif",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
+    },
     {
-     "meaning": "Qui est présumé être, à tort ou à raison.",
+     "meaning": "Acte par lequel on marque la supériorité dans un art ou dans une science.",
      "examples": [
       {
-       "text": "Père putatif,",
+       "text": "Cet orateur a parlé avec maîtrise.",
        "author": null,
-       "work": null
-      },
-      {
-       "text": "Mariage putatif,",
-       "author": null,
-       "work": null
-      },
-      {
-       "text": "L’occasion pour le président sortant de délivrer à son successeur putatif quelques conseils sous forme d’avertissements.",
-       "author": "Le Canard enchaîné",
        "work": null
       }
      ],
      "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/putatif"
-  },
-  {
-   "name": "bancelle",
-   "type": "nom commun féminin",
-   "conjugation_link": null,
-   "definitions": [
+    },
     {
-     "meaning": "Petit banc long et étroit.",
+     "meaning": "Action de dominer quelque chose ou quelqu’un.",
      "examples": [
       {
-       "text": "Déjà rougie par l'automne, la vigne vierge arrondie en voûte fraîche abritait une table et deux bancelles de bois plein.",
-       "author": "Jean Rogissart",
-       "work": "Passantes d’Octobre"
-      }
-     ],
-     "precisions": [
-      "Vieilli"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/bancelle"
-  },
-  {
-   "name": "s'étioler",
-   "type": "verbe",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Forme pronominale de étioler.",
-     "examples": null,
-     "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/s'étioler"
-  },
-  {
-   "name": "rapin",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Avare, radin.",
-     "examples": null,
-     "precisions": [
-      "Suisse"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/rapin"
-  },
-  {
-   "name": "déisme",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Système de ceux qui croient à l’existence d’un être suprême en dehors de toute révélation et de tout culte.",
-     "examples": [
-      {
-       "text": "Le jugement négatif des tenants du déisme envers les Églises chrétiennes comportait aussi une vive critique de la Bible et du judaïsme, tendance plutôt inhabituelle dans la culture religieuse britannique, et qui lui valut d’être cataloguée comme antisémite par des historiens israéliens laïcs.",
-       "author": "Shlomo Sand",
-       "work": "Comment la terre d’Israël fut inventée: De la Terre sainte à la mère patrie"
-      }
-     ],
-     "precisions": [
-      "Philosophie"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/déisme"
-  },
-  {
-   "name": "préquelle",
-   "type": "nom commun féminin",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Variante de prequel.",
-     "examples": [
-      {
-       "text": "Il s’agit d’une préquelle qui devrait reposer sur le timing comique de l’acteur Bob Odenkirk.",
-       "author": null,
-       "work": "20 Minutes.fr"
+       "text": "Dans ce labeur de forçat, dans ce qui eût été, pour tout autre, un délire épuisant, il ne perd pas pied une seule minute. Il conserve, intacte, la maîtrise de son cerveau.",
+       "author": "Octave Mirbeau",
+       "work": "La Mort de Balzac"
       },
       {
-       "text": "Alors, vous êtes plutôt tenté par une suite ou par une préquelle pour",
+       "text": "La maîtrise des mers ne conditionne-t-elle pas l’existence de l’empire britannique?",
+       "author": "Joseph Caillaux",
+       "work": "Mes Mémoires, I, Ma jeunesse orgueilleuse"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Domination de soi.",
+     "examples": [
+      {
+       "text": "Conserver sa maîtrise dans une circonstance troublée ou périlleuse.",
        "author": null,
-       "work": "? Et pourquoi pas les deux ?"
+       "work": null
       }
      ],
      "precisions": [
-      "Anglicisme"
+      "Figuré"
      ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/préquelle"
-  },
-  {
-   "name": "cénobite",
-   "type": "nom commun masculin",
-   "conjugation_link": null,
-   "definitions": [
+    },
     {
-     "meaning": "Religieux qui vit en communauté.",
+     "meaning": "Charge ou dignité particulière.",
      "examples": [
       {
-       "text": "Et sans être un cénobite,Il n’a qu’une toute petite … Ouvre la fenêtre qu’on respire un peu.",
+       "text": "La grande Maîtrise de Malte, de Saint-Lazare, de l’ordre Teutonique.",
        "author": null,
-       "work": "Ouvre la f’nêtre, paroles Mathilde Montier, 1929, interprétée entre autre par Sandrey)"
+       "work": null
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Emploi de maître de chapelle dans une église cathédrale.",
+     "examples": [
+      {
+       "text": "Exemple d’utilisation manquant.",
+       "author": null,
+       "work": null
       }
      ],
      "precisions": [
@@ -846,45 +2804,135 @@
      ]
     },
     {
-     "meaning": "Religieux qui vivaient en commun.",
-     "examples": null,
+     "meaning": "Ensemble des enfants de chœur qui chantent sous la direction du maître de chapelle.",
+     "examples": [
+      {
+       "text": "La maîtrise entonna un motet du dix-huitième siècle.",
+       "author": "Joris-Karl Huysmans",
+       "work": ""
+      }
+     ],
      "precisions": [
-      "Surtout"
+      "Religion"
      ]
     },
     {
-     "meaning": "Ceux qui vivaient séparés les uns des autres et qu’on appelait anachorètes.",
+     "meaning": "Diplôme académique supérieur, normalement attribué après le baccalauréat, équivalent du master nord-américain.",
      "examples": [
       {
-       "text": "Les anciens cénobites.",
+       "text": "Maîtrise ès arts, maîtrise en sexologie.",
        "author": null,
        "work": null
       }
      ],
      "precisions": [
-      "Par une sorte d'opposition"
-     ]
-    },
-    {
-     "meaning": "Crustacé du genre coenobitae",
-     "examples": null,
-     "precisions": [
-      "En référence au bernard-l'ermite"
+      "Canada"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/cénobite"
+   "link": "https://fr.wiktionary.org/wiki/maîtrise"
   },
   {
-   "name": "consomption",
+   "name": "évergétisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Forme de générosité pratiquée par les notables devenue pratiquement obligatoire pour toute magistrature importante dans le monde hellénistique puis dans les cités latines et consistant à financer banquets publics, spectacles gratuits, édifices d’utilité publique, etc.",
+     "examples": [
+      {
+       "text": "« L’évergétisme est le fait que les collectivités (cités, collèges…) attendaient des riches qu’ils contribuassent de leurs deniers aux dépenses publiques, et que leur attente n’était pas vaine : les riches y contribuaient spontanément ou de bon gré. »",
+       "author": "Paul Veyne",
+       "work": "Le pain et le cirque"
+      },
+      {
+       "text": "Cet évergétisme municipal connaît un autre développement avec le concours lancé en 1912 pour la décoration de la salle des mariages de la mairie du septième arrondissement […]",
+       "author": null,
+       "work": "Une histoire de la peinture à Lyon de 1482 à nos jours"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/évergétisme"
+  },
+  {
+   "name": "mirliflore",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Jeune homme qui se pique d’élégance, qui fait l’agréable, qui cherche à briller.",
+     "examples": [
+      {
+       "text": "— Ce sont là des inventions de Paris ! Voilà les idées de ces messieurs de la Capitale ! c’est comme le strabisme, le chloroforme et la lithotritie, un tas de monstruosités que le gouvernement devrait défendre ! Mais on veut faire le malin, et l’on vous fourre des remèdes sans s’inquiéter des conséquences. Nous ne sommes pas si forts que cela, nous autres ; nous ne sommes pas des savants, des mirliflores, des jolis cœurs ; nous sommes des praticiens, des guérisseurs, et nous n’imaginerions pas d’opérer quelqu’un qui se porte à merveille ! Redresser des pieds bots ! est-ce qu’on peut redresser les pieds-bots ? c’est comme si l’on voulait, par exemple, rendre droit un bossu !",
+       "author": "Gustave Flaubert",
+       "work": "Madame Bovary"
+      },
+      {
+       "text": "Fritz était là, devant la glace, vêtu comme un mirliflore.",
+       "author": "Erckmann-Chatrian",
+       "work": "L’ami Fritz"
+      }
+     ],
+     "precisions": [
+      "Familier"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/mirliflore"
+  },
+  {
+   "name": "indigence",
    "type": "nom commun féminin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Action d’être consumé.",
+     "meaning": "Grande pauvreté, privation du nécessaire.",
      "examples": [
       {
-       "text": "La victime fut brûlée jusqu’à l’entière consomption.",
+       "text": "Extrême indigence.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Il est tombé dans l’indigence, dans la plus affreuse indigence.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Être dans l’indigence.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Indigence d’idées.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Vous relevez l’indigence de leur vocabulaire monsieur l’Inspecteur ?",
+       "author": "Jean Rogissart",
+       "work": "Passantes d’Octobre"
+      },
+      {
+       "text": "Le yé-yé désigne un genre, l'ensemble des exhibitions de mineurs ignares, exhibitions vocales ou instrumentales, individuelles ou collectives, caractérisées par leur outrance sonore et leur indigence d’expression.",
+       "author": "Le Monde libertaire",
+       "work": "L'imposture Yé-Yé"
+      },
+      {
+       "text": "(Figuré)",
+       "author": null,
+       "work": "Ce qui ne veut pas dire, ajoute-t-il, que les catholiques de notre unité doivent"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "État de pauvreté qui appelle les secours publics ou privés.",
+     "examples": [
+      {
+       "text": "Certificat d’indigence.",
        "author": null,
        "work": null
       }
@@ -892,94 +2940,496 @@
      "precisions": null
     },
     {
-     "meaning": "Amaigrissement progressif qui précède souvent la mort dans la plupart des maladies chroniques, et surtout dans la tuberculose.",
+     "meaning": "Ensemble des indigents.",
      "examples": [
       {
-       "text": "Fièvre de consomption.",
+       "text": "Secourir l’indigence.",
        "author": null,
        "work": null
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/indigence"
+  },
+  {
+   "name": "emmi",
+   "type": "préposition",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Au milieu de.",
+     "examples": [
+      {
+       "text": "Les textes de ces nouvelles sont dans mon bureau, emmi une grande enveloppe, et aussi d’ailleurs, tout autour.",
+       "author": "Henri Barbusse",
+       "work": "Lettre du 13 novembre 1916, à sa femme"
       },
       {
-       "text": "Nulle race ne compte plus de morts par amour ; le suicide y est rare ; ce qui domine, c’est la lente consomption. Le cas est fréquent chez les jeunes conscrits bretons.",
-       "author": "Ernest Renan",
-       "work": "Souvenirs d’enfance et de jeunesse"
+       "text": "[…] ; puis s’alignèrent d’un bord à l’autre, rompant ainsi le cours du fleuve, dix rangs d’archers et d’arquebusiers, emmi lesquels se trouvait Ulenspiegel.",
+       "author": "Charles De Coster",
+       "work": "La Légende d’Ulenspiegel"
       },
       {
-       "text": "Sa femme, après quinze ans d’esclavage, l’a quitté : il lui faisait vraiment l’existence trop rude : elle est morte de consomption.",
-       "author": "Roger Martin du Gard",
-       "work": "Vieille France"
+       "text": "[…], oyez-vous point s’ébattre, dans la cour de votre Louvre, ces passereaux gourmands emmi cette vigne rameuse et feuillue ?",
+       "author": "Aloysius Bertrand",
+       "work": "Gaspard de la nuit"
       },
       {
-       "text": "Il est à Zoni, il vit dans une maison de santé. Le pauvre garçon meurt de consomption.",
-       "author": "Peter Cheyney",
-       "work": "Les femmes s’en balancent"
-      },
-      {
-       "text": "En en dissimulant les traces de consomption, les gantelets de maille réussissaient presque à ressusciter ce qu'avaient eu de vigueur les mains.",
-       "author": "George R. R. Martin",
-       "work": "Le trône de fer - L'intégrale 3"
+       "text": "De ces cervelles fines, la plus fine était la petite Brulette, emmi les filles, et des plus épaisses, la plus épaisse paraissait celle de Joseph, emmi les garçons.",
+       "author": "George Sand",
+       "work": "Les Maitres sonneurs"
       }
      ],
      "precisions": [
-      "Médecine",
       "Vieilli"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/consomption"
+   "link": "https://fr.wiktionary.org/wiki/emmi"
   },
   {
-   "name": "atrabilaire",
-   "type": "adjectif",
+   "name": "calame",
+   "type": "nom commun masculin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Qui a une humeur noire. Qui est atteint d'hypocondrie.",
-     "examples": null,
-     "precisions": [
-      "Vieilli",
-      "Médecine"
-     ]
-    },
-    {
-     "meaning": "Ancienne appellation des capsules surrénales, auxquelles était attribuée la formation de l'atrabile.",
-     "examples": null,
-     "precisions": [
-      "Vieilli",
-      "Médecine",
-      "Anatomie"
-     ]
-    },
-    {
-     "meaning": "Qui caractérise une personne triste et mélancolique.",
+     "meaning": "Roseau taillé pour l’écriture sur papyrus, parchemin, etc., encore utilisé en calligraphie.",
      "examples": [
       {
-       "text": "De vous dire précisément s’il y a plus de gens à lier dans un pays que dans un autre, c’est ce que mes faibles lumières ne me permettent pas ; je sais seulement qu’en général les gens que nous allons voir sont fort atrabilaires.",
-       "author": "Voltaire",
+       "text": "Le calame crissait sur le papier sous nos yeux extasiés.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Sur des parchemins issus de peaux de moutons, les scribes travaillaient à main levée avec une plume d’oie ou un calame",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Associée au livre, la baguette du Baga peut être vue comme un stylet, ou même comme le calame, le roseau avec lequel on gravait des signes sur les tablettes d’argiles.",
+       "author": null,
+       "work": "Les Mystères du tarot de Viéville - les 22 arcanes majeurs: Essai de décryptage d’un tarot ésotérique au XVIIe siècle"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/calame"
+  },
+  {
+   "name": "vitrauphanie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Adhésif permettant de coller une publicité sur une vitrine.",
+     "examples": [
+      {
+       "text": "Les fabricants de ce papier viennent de créer un nouveau genre destiné à faire des transparents, de là le nom de « vitrauphanie » qu'ils lui ont donné.Ce papier se traite comme les autres: on l'imprime au châssis-presse assez fortement, on le vire et on le fixe dans les bains indiqués déjà pour les autres papiers, […].",
+       "author": null,
+       "work": "La nature: revue des sciences et de leurs applications aux arts et à l'industrie"
+      },
+      {
+       "text": "Cholet, malade, découragé, fixait la fenêtre qu’enlaidissait la vitrauphanie.",
+       "author": "Georges Simenon",
+       "work": "L’Âne rouge"
+      },
+      {
+       "text": "Ah ! les aberrations de la vitrauphanie et autres élucubrations économiques, d'un goût déplorable, où le papier de couleur transparaît encadré de papier-plomb !",
+       "author": null,
+       "work": "L'Art de reconnaître les fraudes: Peinture, sculpture, gravure, meubles, dentelles, céramiques, etc."
+      }
+     ],
+     "precisions": [
+      "Technique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/vitrauphanie"
+  },
+  {
+   "name": "sulky",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Voiture hippomobile, deux-roues comportant un seul siège, conçue pour les courses de trot à l'attelage.",
+     "examples": [
+      {
+       "text": "Après 2 courses de remise dans le bain nécessaires, la voilà déferrée des postérieurs avec Jean-Michel Bazire au sulky.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/sulky"
+  },
+  {
+   "name": "adultérer",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/adult%C3%A9rer",
+   "definitions": [
+    {
+     "meaning": ": Commettre un adultère.  Corrompre une femme mariée.",
+     "examples": null,
+     "precisions": [
+      "XIVe siècle",
+      "Désuet"
+     ]
+    },
+    {
+     "meaning": "Gâter, altérer ce qui est pur.",
+     "examples": [
+      {
+       "text": "La religion du Léonard n’est pas seulement […] une religiosité vague adultérée de superstitions; non, c’est une foi profondément sincère, consciente, recueillie ….",
+       "author": "Ludovic Naudeau",
+       "work": "La France se regarde : le Problème de la natalité"
+      },
+      {
+       "text": "Je trouve absurde d’emprunter en l’adultérant le vocabulaire des siècles défunts",
+       "author": "Arthur Honegger",
+       "work": "Ecrits"
+      },
+      {
+       "text": "Ils se firent un ennemi de l’épicier, en lui soutenant qu’il adultérait ses chocolats",
+       "author": "Gustave Flaubert",
+       "work": "Bouvard et Pécuchet"
+      },
+      {
+       "text": "Cette volonté de chercher à refonder le web en mode « start-up » me paraît relever d’une conception « enchantée » du marché et de la concurrence, comme si les puissances économiques qui ont fait naître les plateformes toxiques avec lesquelles nous nous débattons n’allaient pas être en mesure de trouver le moyen d’adultérer une initiative comme Solid en cas de succès.",
+       "author": "Lionel Maurel",
+       "work": "Rebooter le web sans changer de logiciel économique ?"
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/adultérer"
+  },
+  {
+   "name": "éreutophobie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Peur de rougir en public.",
+     "examples": [
+      {
+       "text": "Le psychiatre confie d’ailleurs recevoir beaucoup de patients masculins souffrant d’éreutophobie, paralysés par la peur de piquer un fard à un point tel qu’ils préfèrent rester cloîtrés chez eux.",
+       "author": null,
+       "work": "Psychologies.com"
+      }
+     ],
+     "precisions": [
+      "Médecine"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/éreutophobie"
+  },
+  {
+   "name": "proscenium",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Partie du théâtre antique comprenant à la fois ce que nous appelons la scène et l’avant-scène, où jouaient les acteurs.",
+     "examples": [
+      {
+       "text": "Le postscenium, égal en longueur au proscenium, avait en profondeur un peu moins.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Des feuillages et de l’andrinople drapé dissimulent le devant du proscenium. La rampe, faite de gazon et de fleurs, est une plate-bande.",
+       "author": "Germaine Acremant",
+       "work": "Ces dames aux chapeaux verts"
+      }
+     ],
+     "precisions": [
+      "Architecture"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/proscenium"
+  },
+  {
+   "name": "esquille",
+   "definitions": [
+    {
+     "meaning": "Petit fragment osseux provenant d'une fracture, le plus souvent complexe.",
+     "examples": [
+      {
+       "text": null,
+       "author": null,
        "work": null
       }
      ],
      "precisions": [
-      "Familier"
+      null
      ]
     },
     {
-     "meaning": "Qui démontre de l’irascibilité, de la mauvaise humeur.",
+     "meaning": "Petit éclat de bois.",
      "examples": [
       {
-       "text": "Un homme atrabilaire, une humeur atrabilaire.",
+       "text": null,
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      null
+     ]
+    }
+   ],
+   "type": "nom féminin",
+   "conjugation_link": null,
+   "link": "https://larousse.fr/dictionnaires/francais/esquille"
+  },
+  {
+   "name": "derechef",
+   "type": "adverbe",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Une seconde fois, de nouveau ; employé de façon emphatique, pour insister.",
+     "examples": [
+      {
+       "text": "Écoute ces bruits horribles, car le tumulte de l’assaut,et celui de la défense retentissait derechef dans tout le château ; ces cris de guerre annoncent la chute de ta maison ; […].",
+       "author": "Walter Scott",
+       "work": "Ivanhoé"
+      },
+      {
+       "text": "[…], Victor embrassa derechef la comtesse, et s'élança hors du logis.",
+       "author": "Honoré de Balzac",
+       "work": "La Femme de trente ans"
+      },
+      {
+       "text": "Parmi les philosophes, les uns sont satisfaits, les autres non. Épicure n’était pas comblé, Spinoza n’était pas comblé, Rousseau n’était pas facile à satisfaire. Mais Leibniz jugeait que le monde allait assez bien. M. Brunschvicg n’est pas mécontent non plus. Derechef, c’est que les philosophes ont pour envers des hommes : les uns possèdent donc des motifs de sentir que le monde est confortable, les autres n’arrivent point à s’y accoutumer.",
+       "author": "Paul Nizan",
+       "work": "Les chiens de garde"
+      },
+      {
+       "text": "L'apparition s'était évanouie derechef et William Day eut beau guetter son retour pendant plus d'un quart d'heure, il ne la vit pas réapparaître : le « White-Wall » se contenta de luire plus que jamais à la clarté argentée de la pleine lune.",
+       "author": "Jean Ray",
+       "work": "Harry Dickson, Le Fantôme des Ruines Rouges"
+      },
+      {
+       "text": "Nous le rabrouâmes derechef, mais notre contre-attaque fut vaine. L'individu revint à la charge, pour la troisième fois.",
+       "author": null,
+       "work": "Abkhazie: A la découverte d'une \"République\" de survivants"
+      }
+     ],
+     "precisions": [
+      "Littéraire",
+      "Vieilli"
+     ]
+    },
+    {
+     "meaning": "Immédiatement.",
+     "examples": [
+      {
+       "text": "[…] bien que résolu à plonger derechef, ce ne fut point sans une forte répugnance que je m’avançai jusqu’au bord des rochers.",
+       "author": "Robert Louis Stevenson",
+       "work": "Les Gais Lurons"
+      },
+      {
+       "text": "[…] les notions du bien et les principes de la justice s’évanouissent derechef.",
+       "author": "Jean-Jacques Rousseau",
+       "work": "Discours sur l’origine et les fondements de l’inégalité parmi les hommes"
+      }
+     ],
+     "precisions": [
+      "Sens souvent compris et utilisé actuellement"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/derechef"
+  },
+  {
+   "name": "laie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Femelle du sanglier.",
+     "examples": [
+      {
+       "text": "Le sanglier et sa laie.",
        "author": null,
        "work": null
       },
       {
-       "text": "Figure-toi l’imagination la plus vagabonde, le cœur le plus amoureux, l’âme la plus tendre, l’esprit le plus poétique, sans cesse en présence de l’homme le plus caillouteux le plus atrabilaire.",
-       "author": "Honoré de Balzac",
-       "work": "La Peau de chagrin"
+       "text": "Laie meneuse",
+       "author": null,
+       "work": null
       },
       {
-       "text": "Nanarland existe depuis 2001 et affiche, à l'heure où j'écris ces lignes, près de 750 chroniques de films au compteur. Parce qu'on ne peut pas plaire à tout le monde, au cours de ces onze années d'existence, le site a ponctuellement essuyé les reproches d'esprits chagrins, via quelques courriels atrabilaires, ou lors de joutes enflammées ça et là sur la toile.",
+       "text": "Laie suitée",
        "author": null,
-       "work": "Chronique de Metalman"
+       "work": null
+      },
+      {
+       "text": "Laie ragote",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/laie"
+  },
+  {
+   "name": "périssoire",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Embarcation légère et étroite qui se manœuvre avec une pagaie double.",
+     "examples": [
+      {
+       "text": "Des barques à fond plat peintes en diverses couleurs, des périssoires légères, se laissent bercer en clapotant sur l’écume, dedans principalement des jeunes, des garçons et des filles, ils donnent quelques coups de rames, s’interpellent joyeusement.",
+       "author": "Ferenc Karinthy",
+       "work": "Épépé"
+      }
+     ],
+     "precisions": [
+      "Navigation"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/périssoire"
+  },
+  {
+   "name": "éteignoir",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Petit ustensile creux en forme de cône, qui sert à éteindre les cierges, les bougies.",
+     "examples": [
+      {
+       "text": "Éteignoir de fer-blanc.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Éteignoir d’argent.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Cet éteignoir est plat et de la dimension du porte-mèche sur lequel il doit entrer.",
+       "author": null,
+       "work": "Nouveau manuel complet du ferblantier et du lampiste"
+      },
+      {
+       "text": "[…] ces pignons vermoulus, enfumés comme des éteignoirs d’église.",
+       "author": "Alphonse Daudet",
+       "work": "Paysages d’insurrection"
+      },
+      {
+       "text": "Un éteignoir… deux éteignoirs… trois éteignoirs…Par une porte basse, ouverte dans un des côtés de la cathédrale, trois ombres, en forme d’éteignoirs, sortent. Ce sont Telcide, Rosalie et Jeanne Davernis, qui, vêtues de leurs houppelandes, modèle cloche, sont coiffées de capotes à brides.",
+       "author": "Germaine Acremant",
+       "work": "Ces dames aux chapeaux verts"
+      },
+      {
+       "text": "Sans lui laisser une seconde, elle lui mit dans les mains le panier de grillage, et lui enfonça le capuchon jusqu'aux narines, comme un éteignoir de la conversation. Il lui était difficile, en cet équipage, d'entamer une diatribe.",
+       "author": "Marcel Pagnol",
+       "work": "La gloire de mon père"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Personne qui arrête la gaieté, l’activité des autres.",
+     "examples": [
+      {
+       "text": "Mais, ce président analphabète, donc peu opérationnel dans son rôle d’intermédiaire et d’agent de développement, est mis sous l’éteignoir par les jeunes.",
+       "author": null,
+       "work": "Les Jeunes, la terre et les changements sociaux en pays baoulé (Côte-d’Ivoire)"
+      }
+     ],
+     "precisions": [
+      "Figuré",
+      "Familier"
+     ]
+    },
+    {
+     "meaning": "Nom donné à plusieurs champignons.",
+     "examples": [
+      {
+       "text": "Le petit éteignoir ou surmousse est un champignon de la famille des agarics.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "par analogie de forme"
+     ]
+    },
+    {
+     "meaning": "Emplacement sur une poubelle dédié à l’extinction des mégots avant de les jeter afin d’éviter d’y mettre le feu.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/éteignoir"
+  },
+  {
+   "name": "récliné",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Dont le sommet est moins élevé que la base ou penche vers la terre.",
+     "examples": null,
+     "precisions": [
+      "Botanique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/récliné"
+  },
+  {
+   "name": "patibulaire",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui concerne le gibet, qui est destiné à servir de gibet.",
+     "examples": null,
+     "precisions": null
+    },
+    {
+     "meaning": "Relatif à une personne qui semble digne de la potence, d'être pendu.",
+     "examples": [
+      {
+       "text": "À peine les infortunés essayaient-ils d’échanger un mot, qu’apparaissait la face patibulaire de Riboulet.",
+       "author": "Charles Deulin",
+       "work": "Martin et Martine"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Dont on se méfie, qui semble suspect.",
+     "examples": [
+      {
+       "text": "Avoir une mine, un air, une figure, une physionomie patibulaire.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Il y avait là deux popes à grands cheveux de femme, couverts de sordides oripeaux dorés, sales, patibulaires.",
+       "author": "Pierre Loti",
+       "work": "Aziyadé"
       }
      ],
      "precisions": [
@@ -987,320 +3437,612 @@
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/atrabilaire"
+   "link": "https://fr.wiktionary.org/wiki/patibulaire"
   },
   {
-   "name": "stabulation",
-   "type": "nom commun féminin",
+   "name": "cucule",
+   "type": "forme de nom commun",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Séjour des bestiaux en étable, voire à l'écurie.",
-     "examples": [
-      {
-       "text": "Pour les veaux d’élève, pour les vaches laitières, une stabulation mixte est préférable à une stabulation absolue.",
-       "author": null,
-       "work": "Traité spécial de la Vache laitière"
-      },
-      {
-       "text": "La stabulation et l’hygiène produisent des effets d’autant plus marqués sur les chevaux que ces animaux sont soumis pendant plus de temps à cette manière d’être.",
-       "author": "Essai sur l’amélioration des races chevalines de la France",
-       "work": "Essai sur l’amélioration des races chevalines de la France"
-      },
-      {
-       "text": "Dans les étables à stabulation libre ou entravée construites selon les spécifications courantes, il est difficile de visualiser l’espace requis pour que la vache effectue ce mouvement vers l’avant.",
-       "author": null,
-       "work": "Le comportement, le confort et la santé de la vache laitière"
-      }
-     ],
-     "precisions": [
-      "Élevage"
-     ]
-    },
-    {
-     "meaning": "Cette étable elle-même, lorsque les animaux n'y sont pas entravés.",
-     "examples": [
-      {
-       "text": "L'objet du concours est la construction d'une stabulation pour 70 vaches laitières, d'une salle de traite 2 x 8 postes, du dispositif de traitement / stockage des effluents (fumière, fosse), des silos d'ensilage et des réseaux de fluide desservant l'installation.",
-       "author": null,
-       "work": "Construction d'une stabulation vaches laitières et des installations connexes - INRA - les Verrines"
-      }
-     ],
-     "precisions": [
-      "Par extension",
-      "Élevage"
-     ]
-    },
-    {
-     "meaning": "Type d'habitation des animaux à l'étable : stabulation libre ou stabulation entravée.",
-     "examples": [
-      {
-       "text": "Le logement des veaux, soit à l'attache, soit en boxes, sous appentis ouverts, le logement des élèves en stabulation libre sont donc à préconiser.",
-       "author": null,
-       "work": "La Revue de l'élevage"
-      }
-     ],
-     "precisions": [
-      "Élevage"
-     ]
-    },
-    {
-     "meaning": "Maintien d’animaux aquatiques vivants en bassins, en réservoirs ou en viviers.",
+     "meaning": "Vocatif singulier de cuculus.",
      "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/cucule"
+  },
+  {
+   "name": "arctique",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Relatif aux régions polaires du nord.",
+     "examples": [
+      {
+       "text": "On eût dit que toute la faune des contrées arctiques s’était fait représenter dans cette décoration par un échantillon de ses plus belles peaux. Le regard hésitait entre les fourrures de loups, d'ours gris, d'ours polaires, de loutres, de wolvérènes, de wisons, de castors, de rats musqués, d'hermines, de renards argentés.",
+       "author": "Jules Verne",
+       "work": "Le Pays des fourrures"
+      },
+      {
+       "text": "Aucun site ne m’a paru avoir un caractère arctique aussi prononcé. Les cimes volcaniques étaient éblouissantes sous leur manteau de neige ; de blanches cascades bondissaient dans la mer du haut des roches abruptes ; une infinité de glaçons bleuâtres détachés des glaciers du Groenland flottaient à la surface des eaux, emportés par les courants polaires.",
+       "author": null,
+       "work": "La Terre de glace, Féroë, Islande, les geysers, le mont Hékla"
+      },
+      {
+       "text": "Le climat arctique n’est pas le même que le climat alpin malgré certaines analogies qui sont indiscutables (enneigement, courte période de végétation, température moyenne basse).",
+       "author": "Henri Gaussen",
+       "work": "Géographie des Plantes"
+      }
+     ],
      "precisions": [
-      "Élevage"
+      "Géographie"
+     ]
+    },
+    {
+     "meaning": "Boréal, proche du pôle nord céleste.",
+     "examples": [
+      {
+       "text": "Le nouveau commandant, un digne officier de la marine marchande française, était debout sur la passerelle ; on avait dépassé la ligne ; les constellations arctiques avaient disparu peu à peu sous l’horizon, les constellations de l’antarctique surgissaient dans les profondeurs du ciel noir.",
+       "author": null,
+       "work": "Lectures pour tous : revue universelle et populaire illustrée"
+      },
+      {
+       "text": "M. Léopold Hugo adresse deux Notes portant pour titres : « Sur la syndromie arithmétique des deux constellations arctiques » et « Considérations sur l’axe de rotation dans l’espace. »",
+       "author": null,
+       "work": "Comptes-rendus hebdomadaires des séances de l’Académie des sciences"
+      }
+     ],
+     "precisions": [
+      "Astronomie",
+      "Rare"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/stabulation"
+   "link": "https://fr.wiktionary.org/wiki/arctique"
   },
   {
-   "name": "fluer",
-   "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/fluer",
+   "name": "cérulé",
+   "type": "adjectif",
+   "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Couler, en parlant d’un liquide qui s’écoule d’une partie du corps, d’une plaie, d’un ulcère et des parties mêmes d’où ce liquide s’écoule.",
+     "meaning": "Qui a une teinte d’azur.",
+     "examples": null,
+     "precisions": [
+      "Histoire naturelle"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/cérulé"
+  },
+  {
+   "name": "hassidisme",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Judaïsme hassidique, piétisme juif.",
      "examples": [
       {
-       "text": "Sa main gauche s’était crispée sur sa poitrine, à l’endroit de la blessure, et du sang fluait entre ses doigts.",
+       "text": "Tous répondent à l'appel du rabbi Nahman, un des grands penseurs du hassidisme, mouvement religieux apparu au XVIIIe siècle qui constitue aujourd'hui l'un des piliers de l'orthodoxie juive.",
        "author": null,
-       "work": "Tension de famille"
+       "work": "Ukraine : ils sont des milliers à venir fêter le Nouvel An juif"
       },
       {
-       "text": "L’humeur qui flue de ses oreilles, de sa plaie.",
+       "text": "Vous voulez savoir ce qu'est le Hassidisme ? Connaissez-vous l'histoire du forgeron qui voulut devenir indépendant ? Il acheta une enclume, un marteau, un soufflet et se mit au travail. En vain. La forge restait inerte. Alors un vieux forgeron, à qui il alla demander conseil, lui dit : « Tu as tout ce qu'il te faut, sauf l'étincelle. » Le Hassidisme, c'est cela. C'est l'étincelle.",
        "author": null,
        "work": null
+      }
+     ],
+     "precisions": [
+      "Religion"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/hassidisme"
+  },
+  {
+   "name": "émollient",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui a pour effet d’amollir, d’adoucir les parties enflammées.",
+     "examples": [
+      {
+       "text": "Remède émollient.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Emplâtre, cataplasme émollient.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "La farine de graine de lin est émolliente.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "(Figuré)",
+       "author": "Philippe Curval",
+       "work": "Je redoute de finir mes jours ici, plein d’une émolliente sympathie envers ces sables infinis, ces animaux paradoxaux, ces tours insolites et ces caricatures d’humanité qui n’en veulent qu’à ma viande."
+      },
+      {
+       "text": "J’aurais pu être jalouse, mais non, l’amour est émollient je me suis laissé attendrir.",
+       "author": "Marie Desplechin",
+       "work": "Nous entrerons dans la carrière"
+      },
+      {
+       "text": "[I]l y a chez Michelet, comme chez beaucoup d’auteurs, l’obsession craintive d’une féminisation émolliente de la société sous l’emprise d’une religiosité qui ignore la force pour favoriser servilité et docilité[.]",
+       "author": null,
+       "work": "Genre et identités aux Pays-Bas méridionaux"
       }
      ],
      "precisions": [
       "Médecine"
      ]
-    },
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/émollient"
+  },
+  {
+   "name": "vertébrer",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/vert%C3%A9brer",
+   "definitions": [
     {
-     "meaning": "Se déformer à une vitesse très lente sous l’effet d’un effort maintenu durant une longue durée .",
+     "meaning": "Ajouter une colonne vertébrale, une ossature, une structure, à.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/vertébrer"
+  },
+  {
+   "name": "évirer",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/%C3%A9virer",
+   "definitions": [
+    {
+     "meaning": "Castrer .",
      "examples": [
       {
-       "text": "On oublie souvent de tenir compte du fait que les matériaux de construction fluent.",
+       "text": "Par contre, s’il était en quelque sorte éviré, s’il était absous du plus gros de ses peines, il voyait s’épanouir en lui une nouvelle ivraie dont la croissance s’était jusqu’alors dissimulée derrière les végétations plus touffues des autres vices.",
+       "author": "Joris-Karl Huysmans",
+       "work": "La Cathédrale"
+      },
+      {
+       "text": "Biffer d’un trait de plume tout ce pour quoi je me suis passionné ? Défendre même au souvenir de sourdre et, sous prétexte de revirer proprement, proprement m’évirer ?",
+       "author": "MIchel Leiris",
+       "work": "Langage-tangage ou Ce que les mots me disent"
+      },
+      {
+       "text": "Certains manuscrits ajoutent à ce chapitre que les Perses se sont directement inspirés de la méthode de l’onagre pour évirer les eunuques.",
        "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Physique",
-      "phénomène souvent activé par la température"
-     ]
-    },
-    {
-     "meaning": "Couler.",
-     "examples": [
+       "work": "Physiologos Le bestiaire des bestiaires"
+      },
       {
-       "text": "Avec la vie, hélas, qui fluait en lui, devenaient plus lancinants ce vague aux tripes, cette boule sur l’estomac, cette envie de vomir des condamnés à leur dernier matin.",
-       "author": "Raymond Guérin",
-       "work": "Les Poulpes"
+       "text": "Geneviève Morel est suffisamment cultivée et au fait de la lecture du séminaire de Lacan pour ne pas souligner ici que Lacan – peut-être même à propos de cette nouvelle de Joyce – évoque",
+       "author": null,
+       "work": "(film de Nagisa Oshima, sorti en 1976, soit contemporain du séminaire XXIII) pour parler de l’"
       }
      ],
      "precisions": [
-      "Littéraire"
+      "un homme"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/fluer"
+   "link": "https://fr.wiktionary.org/wiki/évirer"
   },
   {
-   "name": "béer",
+   "name": "équarrir",
    "type": "verbe",
-   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/b%C3%A9er",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/%C3%A9quarrir",
    "definitions": [
     {
-     "meaning": "Ouvrir la bouche d’étonnement, d’admiration ou de curiosité, regarder avec étonnement.",
+     "meaning": "Tailler à angle droit.",
      "examples": [
       {
-       "text": "Pour le capitaine, il restait à béer devant l’enseigne, comme sidéré.",
-       "author": "Robert Louis Stevenson",
-       "work": "L’Île au trésor"
+       "text": "Équarrir une poutre, une pierre, un bloc de marbre.",
+       "author": null,
+       "work": null
       },
       {
-       "text": "M. Achille est heureux comme il n’a pas dû l’être de longtemps. Il bée d’admiration ; il boit son Byrrh à petites gorgées en gonflant ses joues. Eh bien ! le docteur a su le prendre !",
-       "author": "Jean Paul Sartre",
-       "work": "La Nausée"
+       "text": "Une pièce de bois équarrie.",
+       "author": null,
+       "work": null
       },
       {
-       "text": "Une fois de plus, on bée d’admiration devant le QI des experts militaires",
-       "author": "Cornélius Castoriadis",
-       "work": "Devant la Guerre"
+       "text": "Équarrir une glace",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Les entreprises des Monuments historiques ni même les compagnons charpentiers n’équarrissent plus les bois à la hache et s’approvisionnent directement en scierie.",
+       "author": null,
+       "work": "CNRS, le Journal"
       }
      ],
      "precisions": null
     },
     {
-     "meaning": "Être grand ouvert, notamment en parlant d’une porte ou d’un trou.",
+     "meaning": "Dépecer les bêtes mortes ou que l’on abat et que l'on va couper en quartiers.",
      "examples": [
       {
-       "text": "Partout, au-dessus, au-dessous, autour de lui, béaient des gouffres monstrueux où le vent hurlait, et où tourbillonnaient des rafales de neige.",
-       "author": "H. G. Wells",
-       "work": "La Guerre dans les airs"
-      },
-      {
-       "text": "Çà et là encore, des caves qui béaient, rez terre, s’étoilaient des lueurs sanglantes d’un fumignon.",
-       "author": "Joris-Karl Huysmans",
-       "work": "La République des lettres"
-      },
-      {
-       "text": "Le jeune homme aux cheveux blonds avait dans ses mains et sur ses pieds de larges plaies ouvertes qui béaient comme des lèvres.",
+       "text": "Équarrir un cheval.",
        "author": null,
-       "work": "Le Forgeron Misère"
-      },
-      {
-       "text": "Une blessure béait au côté ; le vêtement déchiré et la chemise bleue étaient couverts de sang coagulé.",
-       "author": "Léon Tolstoï",
-       "work": "Le Réveillon du jeune tsar"
+       "work": null
       }
      ],
-     "precisions": [
-      "Littéraire"
-     ]
+     "precisions": null
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/béer"
+   "link": "https://fr.wiktionary.org/wiki/équarrir"
   },
   {
-   "name": "lazaret",
+   "name": "vélin",
    "type": "nom commun masculin",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "Léproserie.",
+     "meaning": "Parchemin de qualité supérieure, traditionnellement fait de peau de très jeune veau.",
      "examples": [
       {
-       "text": "Ainsi qu'ailleurs, par exemple au Mans et à Saint-Jacques de Paris, Reims construira un lazaret ou « bureau de santé » pour les pestiférés, et ce bureau sera tenu par les Capucins.",
+       "text": "Relier des livres en vélin.",
        "author": null,
-       "work": "Les frères mineurs capucins de Reims (1593-1903)"
-      }
-     ],
-     "precisions": null
-    },
-    {
-     "meaning": "Lieu où sont isolées les personnes en quarantaine.",
-     "examples": [
-      {
-       "text": "Le Bû de la Rue était une sorte de lazaret ; on tenait Gilliatt en quarantaine.",
-       "author": "Victor Hugo",
-       "work": "Les Travailleurs de la mer"
+       "work": null
       },
       {
-       "text": "Pour un symptôme douteux on expédie le contagieux au lazaret d’isolement.",
-       "author": "Antoine de Saint-Exupéry",
-       "work": "Lettre à un otage"
+       "text": "Reliure de vélin.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Exemplaire sur vélin.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Ces maroquins sont si plaisants à l’œil et ces vélins si doux au toucher ! Il n’est pas un seul de ces livres qui ne soit digne, par quelque mérite singulier, de l’estime d’un galant homme.",
+       "author": "Anatole France",
+       "work": "Le crime de Sylvestre Bonnard"
+      }
+     ],
+     "precisions": [
+      "Imprimerie"
+     ]
+    },
+    {
+     "meaning": "Papier de qualité supérieure, imitant la blancheur et l’uni de ce type de parchemin.",
+     "examples": [
+      {
+       "text": "Écrire sur du vélin.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "Peindre en miniature sur du vélin.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Imprimerie"
+     ]
+    },
+    {
+     "meaning": "Dentelle fine d’Alençon dite aussi point royal.",
+     "examples": [
+      {
+       "text": "Vélin blanc.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Textile"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/vélin"
+  },
+  {
+   "name": "escarbille",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Morceau de braise incomplètement brûlé et que l’on retrouve dans les fumées.",
+     "examples": [
+      {
+       "text": "Je ne pensais qu'à cette insolite rue de Tombouctou, qui tourne tout de suite à la gauche d'un pont aux grilles noires encrassées d'escarbilles […].",
+       "author": "Francis Carco",
+       "work": "Messieurs les vrais de vrai"
+      },
+      {
+       "text": "Des escarbilles sortaient de la cheminée de la locomotive.",
+       "author": null,
+       "work": null
       }
      ],
      "precisions": null
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/lazaret"
-  },
-  {
-   "name": "méplat",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Qui a plus de largeur que d’épaisseur.",
-     "examples": [
-      {
-       "text": "Planche méplate.",
-       "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Technique"
-     ]
     },
     {
-     "meaning": "Où l’épaisseur relative des premiers plans est atténuée.",
+     "meaning": "Fraisil ; cendres incomplètement brûlées.",
      "examples": [
       {
-       "text": "Bas-reliefs méplats.",
-       "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Sculpture"
-     ]
-    },
-    {
-     "meaning": "Qui établit le passage d’un plan à un autre.",
-     "examples": [
-      {
-       "text": "Lignes méplates.",
-       "author": null,
-       "work": null
-      }
-     ],
-     "precisions": [
-      "Peinture"
-     ]
-    }
-   ],
-   "link": "https://fr.wiktionary.org/wiki/méplat"
-  },
-  {
-   "name": "allogène",
-   "type": "adjectif",
-   "conjugation_link": null,
-   "definitions": [
-    {
-     "meaning": "Qui est installé depuis relativement peu de temps sur un territoire, en parlant d’un groupe originaire d’ailleurs, et qui présente encore des caractères nationaux ou ethniques qui le distinguent de la population autochtone.",
-     "examples": [
-      {
-       "text": "Notre précédente étude a montré quelle est la situation de la seconde ville de France, où une population allogène se superpose ou, pour mieux dire, se substitue à l’ancienne population indigène, en voie d’effacement.",
+       "text": "[…] ; les villages traversés, sans perdre beaucoup de leur rusticité primitive, montrent cependant ces traces noirâtres, ces tas d'escarbilles que crée toujours la consommation fréquente de la houille.",
        "author": "Ludovic Naudeau",
        "work": "La France se regarde : le Problème de la natalité"
       }
      ],
-     "precisions": [
-      "Anthropologie"
-     ]
-    },
-    {
-     "meaning": "Qui a pris naissance ailleurs que dans la roche où ils se trouvent, en parlant des matériaux et constituants de roches.",
-     "examples": null,
-     "precisions": [
-      "Géologie"
-     ]
-    },
-    {
-     "meaning": "Qui conserve les caractéristiques acquises dans une autre région, en parlant d’un cours d’eau.",
-     "examples": null,
-     "precisions": [
-      "Géologie"
-     ]
+     "precisions": null
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/allogène"
+   "link": "https://fr.wiktionary.org/wiki/escarbille"
   },
   {
-   "name": "s'anuiter",
-   "type": "verbe",
+   "name": "pectiné",
+   "type": "adjectif",
    "conjugation_link": null,
    "definitions": [
     {
-     "meaning": "S’exposer à être surpris en chemin par la nuit.",
+     "meaning": "Qui a la forme d'un peigne.",
+     "examples": null,
+     "precisions": null
+    },
+    {
+     "meaning": "Qui a une surface peignée.",
      "examples": [
       {
-       "text": "Si vous m’en croyez, ne vous anuitez pas.",
+       "text": "Un sporophore pectiné, une marge pectinée.",
        "author": null,
        "work": null
       }
      ],
      "precisions": [
-      "Vieilli"
+      "Mycologie"
      ]
     }
    ],
-   "link": "https://fr.wiktionary.org/wiki/s'anuiter"
+   "link": "https://fr.wiktionary.org/wiki/pectiné"
+  },
+  {
+   "name": "traille",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Amarre reliée à un bac et pourvue d’une poulie mobile le long d’un câble établi au travers d’un cours d’eau.",
+     "examples": [
+      {
+       "text": "Ce n’est qu’en frémissant qu’il posait le pied dans un bateau, ce véhicule nautique fût-il assuré par une traille à roulettes.",
+       "author": "Étienne Nicolas Méhul",
+       "work": "Revue de Paris"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Le câble de ce dispositif.",
+     "examples": [
+      {
+       "text": "Au milieu du 19e siècle, en 1848, une traille est mise en place à Miribel pour franchir le canal de Miribel nouvellement construit et permettre aux habitants de joindre le brotteau.",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": [
+      "Par métonymie"
+     ]
+    },
+    {
+     "meaning": "Le bac guidé par ce moyen.",
+     "examples": null,
+     "precisions": [
+      "Par métonymie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/traille"
+  },
+  {
+   "name": "rubéfier",
+   "type": "verbe",
+   "conjugation_link": "https://fr.wiktionary.org/wiki/wiki/Annexe:Conjugaison_en_fran%C3%A7ais/rub%C3%A9fier",
+   "definitions": [
+    {
+     "meaning": "Rendre rouge, enflammé, par l’application des rubéfiants.",
+     "examples": null,
+     "precisions": [
+      "Médecine"
+     ]
+    },
+    {
+     "meaning": "Colorer en rouge du sol ou des roches par l'action des oxydes de fer.",
+     "examples": null,
+     "precisions": [
+      "Géologie"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/rubéfier"
+  },
+  {
+   "name": "écouvillon",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Vieux linge attaché à un long bâton, avec lequel on nettoie le four, lorsqu’on veut enfourner le pain.",
+     "examples": null,
+     "precisions": null
+    },
+    {
+     "meaning": "Brosse adaptée à un manche, avec laquelle on nettoie le canon lorsqu’il a tiré et qu’on veut le recharger ou le refroidir.",
+     "examples": [
+      {
+       "text": "Le pauvre canon se tut de lui-même faute de munitions. L’un des artilleurs qui restaient debout jeta son écouvillon avec rage ; un autre se croisa les bras sur la poitrine, quelques-uns se retirèrent lentement poursuivis par les obus.",
+       "author": null,
+       "work": "Récits d’un soldat - Une Armée Prisonnière ; Une Campagne Devant Paris"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Outils permettant de réaliser des prélèvements sur des surfaces planes ou dans des tuyauteries dans les industries pharmaceutiques ou des métiers connexes.",
+     "examples": null,
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/écouvillon"
+  },
+  {
+   "name": "affidé",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "À qui on se fie.",
+     "examples": [
+      {
+       "text": "Envoyer un homme affidé. - Il lui fit dire par une personne affidée…",
+       "author": null,
+       "work": null
+      }
+     ],
+     "precisions": null
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/affidé"
+  },
+  {
+   "name": "palindrome",
+   "type": "nom commun masculin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Texte dont la succession des lettres ou des chiffres est la même quand on le parcours de gauche à droite ou de droite à gauche.",
+     "examples": [
+      {
+       "text": "Un palindrome peut être un seul mot, comme « ressasser », une courte phrase, comme « engage le jeu que je le gagne » ; ou un texte plus long.",
+       "author": null,
+       "work": null
+      },
+      {
+       "text": "1991 est une année palindrome.",
+       "author": "Amélie Nothomb",
+       "work": "Ni d’Ève ni d’Adam"
+      }
+     ],
+     "precisions": [
+      "Linguistique"
+     ]
+    },
+    {
+     "meaning": "Séquence palindromique.",
+     "examples": null,
+     "precisions": [
+      "Génétique"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/palindrome"
+  },
+  {
+   "name": "orangerie",
+   "type": "nom commun féminin",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Lieu fermé, où l’on conserve, pendant l’hiver, des orangers en caisse et d’autres plantes fragiles.",
+     "examples": [
+      {
+       "text": "En France, bien que l'on ne puisse pas encore véritablement parler d’orangerie, les premiers « porches à remettre les orangers » sont prévus sous les terrasses du château de Meudon lorsque le cardinal de Lorraine, Charles de Guise, commande de nouveaux jardins en 1522.",
+       "author": null,
+       "work": "De l'orangerie au palais de cristal, une histoire des serres"
+      },
+      {
+       "text": "Quelques auteurs désignent l’orangerie sous le nom de",
+       "author": null,
+       "work": ", parce qu'en effet elle convient à une foule de végétaux autres que ceux de la famille des orangers. […]. L’orangerie est un local exclusivement réservé à la conservation, pendant l'hiver, des plantes, quel lesquelles soient, dont la végétation est dans cette saison totalement interrompue, et qui, pour cette raison, peuvent se passer de lumière."
+      },
+      {
+       "text": "Le goût des personnes aisées pour les plantes exotiques, dont la culture exige l’orangerie ou les serres, est en progrès en France ; de là la grande extension qu'a prise depuis peu d'années le commerce de ces plantes.",
+       "author": null,
+       "work": "Maison rustique du 19e siècle: encyclopédie d'agriculture pratique"
+      }
+     ],
+     "precisions": null
+    },
+    {
+     "meaning": "Partie d’un jardin où les orangers sont placés pendant la belle saison.",
+     "examples": null,
+     "precisions": [
+      "Plus rare"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/orangerie"
+  },
+  {
+   "name": "incréé",
+   "type": "adjectif",
+   "conjugation_link": null,
+   "definitions": [
+    {
+     "meaning": "Qui existe sans avoir été créé.",
+     "examples": [
+      {
+       "text": "Chez nous, l’on méprise trop l’art de la danse, cela soit dit en passant. Tous les grands peuples, d’abord ceux du monde antique, ceux de l’Inde et de l’Arabie, l’ont cultivée à l’égal de la poésie. La danse est autant au-dessus de la musique, pour certaines organisations païennes toutefois, que le visible et le créé sont au-dessus de l’invisible et de l’incréé.",
+       "author": "Charles Baudelaire",
+       "work": "La Fanfarlo"
+      },
+      {
+       "text": "L'essence incréée est, pour saint Maxime et pour tous les Pères de l’église, synonyme de l'essence divine.",
+       "author": null,
+       "work": "Maxime le Confesseur: essence et énergies de Dieu"
+      },
+      {
+       "text": "Vous avez déjà vu que tous les êtres incréés seraient également inaltérables par essence , qu'ils n'auraient rien à se communiquer, rien à se donner à eux-mêmes.",
+       "author": "Jean-François Marmontel",
+       "work": "Métaphysique"
+      },
+      {
+       "text": "D'une part, en effet, l'héritage de Chalcédoine est parfaitement préservé: les natures, même après l'union, sont deux, parce que l'essence divine incréée ne peut jamais et sous aucune forme être participée en tant que telle par la nature créée, […].",
+       "author": null,
+       "work": "Dieu est amour"
+      },
+      {
+       "text": "Une autre fracture religieuse s’opère avec l’essor au VIIe siècle de l’islam, qui se fragmente entre l’islam « ouvert » des Omeyyades, à Damas ou en Espagne, et celui du califat abbasside, à Bagdad, où il impose en 851 le dogme d’un Coran incréé qui fossilise cette religion.",
+       "author": "Le Point",
+       "work": "La Méditerranée centre du monde"
+      }
+     ],
+     "precisions": [
+      "Didactique",
+      "Religion"
+     ]
+    },
+    {
+     "meaning": "Qui n’a pas été formulé, qui n’existe pas.",
+     "examples": [
+      {
+       "text": "Nature, ô lyre aux milles cordes ; Qui réentend ton chant vibrer, ton chant humain ; Qui voit monter vers lui, comme de longues hordes, Tes vagues, grande mer, et qui peut de la main Vous compter, astres purs qui dominez à l'heure Où l'univers s'apprête à son repos sacré, Où passe en une vision et qui demeure L'Esprit soufflant d'un trait le poème incréé !",
+       "author": null,
+       "work": "Tel qu'en sa solitude ...: poèmes"
+      }
+     ],
+     "precisions": [
+      "Littéraire"
+     ]
+    }
+   ],
+   "link": "https://fr.wiktionary.org/wiki/incréé"
   }
  ]
 }
