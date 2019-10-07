@@ -43,10 +43,10 @@ def get_def_from_wiki(word):
     except AttributeError:
         word_type = None
 
-    if 'nom' in word_type:
+    if 'nom commun' in word_type:
         try:
             gender = soup.find('span', attrs={'class': 'ligne-de-forme'}).text.lower()
-            word_type += ' ' + gender
+            word_type = '{} {}'.format(word_type.replace(' commun', ''), gender)
         except AttributeError:
             pass
 
@@ -82,18 +82,17 @@ def get_def_from_wiki(word):
         # remove examples from meaning
         meaning = all_text.replace(text_examples, '').replace('\xa0', ' ').strip(' \n')
 
-        # TODO TEST get references to remove them from meaning
         references = definition.findAll('sup', attrs={'class': 'reference'})
         for ref in references:
             meaning = meaning.replace(ref.text, '')
 
-        # get precisions
-        groups = re.findall(r'(\(.*?\))', meaning)
-        if len(groups) > 0:
-            def_precisions = [x.strip('()') for x in groups]
-            for x in groups:
-                meaning = meaning.replace(x, '')
-            meaning = meaning.strip(' ()')
+        # get precisions (allow a 2-letter word between successive precisions)
+        match = re.match(r'^( ?\w{0,2} ?\(\w+\))*', meaning).group(0)  # extract words between parentheses at the beginning
+        if len(match) > 0:
+            meaning = meaning.replace(match, '').strip(' ();,')
+            def_precisions = [x.group().strip('()') for x in re.finditer(r'(\(\w+\))', match)]
+            if len(def_precisions) == 0:
+                def_precisions = None
         else:
             def_precisions = None
 
@@ -108,24 +107,36 @@ def get_def_from_wiki(word):
         # get examples
         examples = []
         for example in definition.findAll('li'):
+            # extract sources
+            sources_span = example.find('span', attrs={'class': 'sources'})
+            if sources_span is None:
+                example_author = None
+                example_work = None
+            else:
+                sources = sources_span.extract()
+
+                # get author
+                example_author = sources.find('a', attrs={'class': 'extiw'})
+                if example_author is not None:
+                    example_author = example_author.get_text().replace('\xa0', ' ').strip(' \n,;:')
+
+                # get work
+                try:
+                    example_work = sources.find('i').get_text().replace('\xa0', ' ').strip(' \n,;:')
+                except AttributeError:
+                    example_work = None
+
             # get example text
-            example_i = example.findAll('i')
+            #example_i = example.findAll('i')
             try:
-                example_text = example_i[0].get_text().replace('\xa0', ' ').strip(' \n')
+                #example_text = example_i[0].get_text().replace('\xa0', ' ').strip(' \n,;:')
+                example_text = example.get_text().replace('\xa0', ' ').strip(' \n,;:')
             except IndexError:
                 print(f'no <i> for {word}')
                 continue
 
-            # get author
-            example_author = example.find('a', attrs={'class': 'extiw'})
-            if example_author is not None:
-                example_author = example_author.get_text().replace('\xa0', ' ').strip(' \n')
-
-            # get
-            if len(example_i) > 1:
-                example_work = example_i[1].get_text().replace('\xa0', ' ').strip(' \n')
-            else:
-                example_work = None
+            if example_text is None:
+                continue
 
             examples.append({
                 'text': example_text,
@@ -189,18 +200,21 @@ def get_def_from_larousse(word):
             definition_field = None
 
         # find example
-        example = definition.find("span", attrs={"class": 'ExempleDefinition'})
-        if example is not None:
-            example = example.string
-            if example is not None:
-                meaning = meaning.replace(example, '').replace('\xa0', ' ').strip(' :')
+        example_def = definition.find("span", attrs={"class": 'ExempleDefinition'})
+        if example_def is not None:
+            example_text = example_def.string
+            if example_text is not None:
+                meaning = meaning.replace(example_text, '').replace('\xa0', ' ').strip(' :')
             else:
                 meaning = meaning.replace('\xa0', ' ').strip(' :')
+        else:
+            example_text = None
 
+        example = {'text': example_text, 'author': None, 'work': None} if example_text is not None else None
         all_definitions.append({
             "meaning": meaning,
-            "examples": [{'text': example, 'author': None, 'work': None}],
-            'precisions': [definition_field]
+            "examples": example,
+            'precisions': [definition_field] if definition_field is not None else None
         })
 
     print(f'{word} done by Larousse')
@@ -258,4 +272,4 @@ def make_json(n_words=None):
 
 
 if __name__ == '__main__':
-    make_json(100)
+    make_json()
